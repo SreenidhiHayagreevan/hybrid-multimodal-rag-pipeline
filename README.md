@@ -75,7 +75,7 @@ To set up and run this project locally, ensure you have the prerequisites and th
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/hybrid-multimodal-rag-pipeline.git](https://github.com/your-username/hybrid-multimodal-rag-pipeline.git)
+git clone [https://github.com/SreenidhiHayagreevan/hybrid-multimodal-rag-pipeline.git](https://github.com/SreenidhiHayagreevan/hybrid-multimodal-rag-pipeline.git)
 cd hybrid-multimodal-rag-pipeline
 ```
 
