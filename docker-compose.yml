@@ -1,6 +1,6 @@
-# docker-compose.yml (Direct Method)
+# docker-compose.yml (FINAL VERSION with Neo4j)
 services:
-  db:
+  db: # Your existing Postgres database for vector search
     image: pgvector/pgvector:pg16
     container_name: rag_db
     environment:
@@ -12,5 +12,19 @@ services:
     volumes:
       - pg_data:/var/lib/postgresql/data
 
+  neo4j: # The new Knowledge Graph database
+    image: neo4j:5-community
+    container_name: rag_kg
+    ports:
+      - "7474:7474" # This is for the web browser UI to view the graph
+      - "7687:7687" # This is for the Python driver to connect to the database
+    environment:
+      # We will set a password for your Neo4j database
+      # It reads the password from your .env file for security
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD}
+    volumes:
+      - neo4j_data:/data
+
 volumes:
   pg_data:
+  neo4j_data:

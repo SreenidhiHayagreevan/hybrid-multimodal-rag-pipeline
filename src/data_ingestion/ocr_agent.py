@@ -1,70 +1,54 @@
-# src/data_ingestion/ocr_agent.py
+# src/data_ingestion/ocr_agent.py (FINAL VERSION - with Google OCR)
+
 import fitz # PyMuPDF
-from .extractors import extract_text_with_ocr # Import our placeholder OCR function
+# Import our new, real OCR function from the extractors module
+from .extractors import extract_text_with_ocr
 
 def needs_ocr(page_text: str, char_threshold: int = 100) -> bool:
     """
-    A simple agentic function to determine if a page likely needs OCR.
-
-    Args:
-        page_text: The text extracted from a PDF page using standard methods.
-        char_threshold: The minimum number of characters for a page to be
-                        considered machine-readable.
-
-    Returns:
-        True if the page is likely a scanned image or has garbled text.
-        False otherwise.
+    The agent's decision logic. It determines if a page likely needs OCR.
+    
+    Returns True if the text extracted by standard methods is shorter than the
+    threshold, which is a strong indicator of a scanned or image-based page.
     """
     if len(page_text.strip()) < char_threshold:
-        # If the page has very little text, it's a strong indicator
-        # that it's an image or a scanned document.
         return True
-
-    # Add more sophisticated checks here in the future.
-    # For example, you could check for a high ratio of non-alphanumeric
-    # characters, or use a language detection library to see if the text
-    # is coherent. For now, the character count is a robust starting point.
-
     return False
 
 def process_document(pdf_path: str) -> list[dict]:
     """
     Processes a document page by page, intelligently deciding whether to use
-    standard text extraction or to simulate calling an OCR tool.
-
-    Args:
-        pdf_path: The path to the PDF file.
-
-    Returns:
-        A list of dictionaries, each containing the page number, extracted text,
-        and the method used for extraction ('standard' or 'ocr').
+    standard text extraction or to call the commercial OCR tool. This function
+    is the core of the Agentic OCR Framework.
     """
     try:
         doc = fitz.open(pdf_path)
     except Exception as e:
-        print(f"Error opening or reading PDF file: {pdf_path}. Error: {e}")
+        print(f"Error opening PDF '{pdf_path}': {e}")
         return []
 
     processed_pages = []
     for page_num, page in enumerate(doc):
-        # 1. Always try the fast, standard extraction first.
+        page_number = page_num + 1 # Use 1-based page numbers for clarity
+        
+        # 1. Always attempt the fast, standard extraction first.
         standard_text = page.get_text()
 
-        # 2. The "agent" makes a decision based on the result.
+        # 2. The agent makes its decision based on the result of the standard extraction.
         if needs_ocr(standard_text):
-            print(f"Page {page_num + 1}: Decision - OCR required. Simulating call.")
-            # Here you would call your *real* OCR function. We'll use our placeholder.
-            # In a real scenario, you'd pass the page object or an image of it.
-            # For simplicity, we are just noting the decision.
+            print(f"  -> Page {page_number}: Decision - OCR required. Calling Google Vision AI...")
+            # If OCR is needed, call our new, real OCR function for this specific page.
+            ocr_text = extract_text_with_ocr(pdf_path, page_number)
             processed_pages.append({
-                "page_number": page_num + 1,
-                "text": "[[SCANNED_CONTENT_PLACEHOLDER]]", # Placeholder for OCR'd text
+                "page_number": page_number,
+                "text": ocr_text,
                 "extraction_method": "ocr"
             })
         else:
-            print(f"Page {page_num + 1}: Decision - Standard extraction is sufficient.")
+            # If the page is machine-readable, use the text we already extracted.
+            # This saves time and money by avoiding unnecessary API calls.
             processed_pages.append({
-                "page_number": page_num + 1,
+                "page_number": page_number,
                 "text": standard_text,
                 "extraction_method": "standard"
             })

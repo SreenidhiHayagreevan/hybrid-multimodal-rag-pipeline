@@ -1,0 +1,1181 @@
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "not available"}
+{"subject": "Microsoft Corporation", "relation": "IS_CEO_OF", "object": "not available"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "Common stock, $0.00000625 par value per share"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "3.125% Notes due 2028"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "2.625% Notes due 2033"}
+{"subject": "Microsoft Corporation", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "Financial Information"}
+{"subject": "Microsoft Corporation", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Microsoft Corporation", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "Product", "relation": "HAS_REVENUE", "object": "$15,535 million"}
+{"subject": "Service and other", "relation": "HAS_REVENUE", "object": "$40,982 million"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Product"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Service and other"}
+{"subject": "2023", "relation": "HAS_REVENUE", "object": "$22,291 million"}
+{"subject": "2022", "relation": "HAS_REVENUE", "object": "$17,556 million"}
+{"subject": "Cash and cash equivalents", "relation": "IS_PART_OF", "object": "Current assets"}
+{"subject": "Short-term investments", "relation": "IS_PART_OF", "object": "Current assets"}
+{"subject": "Accounts receivable", "relation": "IS_PART_OF", "object": "Current assets"}
+{"subject": "Inventories", "relation": "IS_PART_OF", "object": "Current assets"}
+{"subject": "Other current assets", "relation": "IS_PART_OF", "object": "Current assets"}
+{"subject": "Property and equipment", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Operating lease right-of-use assets", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Equity investments", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Goodwill", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Intangible assets", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Other long-term assets", "relation": "IS_PART_OF", "object": "Total assets"}
+{"subject": "Total assets", "relation": "GREATER_THAN", "object": "$411.976 billion"}
+{"subject": "Accounts payable", "relation": "IS_PART_OF", "object": "Current liabilities"}
+{"subject": "Short-term debt", "relation": "IS_PART_OF", "object": "Current liabilities"}
+{"subject": "Current portion of long-term debt", "relation": "IS_PART_OF", "object": "Current liabilities"}
+{"subject": "Accrued compensation", "relation": "IS_PART_OF", "object": "Current liabilities"}
+{"subject": "Short-term income taxes", "relation": "IS_PART_OF", "object": "Current liabilities"}
+{"subject": "Total current liabilities", "relation": "HAS_REVENUE", "object": "$124,792"}
+{"subject": "Total liabilities", "relation": "HAS_REVENUE", "object": "$225,071"}
+{"subject": "Total stockholders\u2019 equity", "relation": "HAS_REVENUE", "object": "$220,714"}
+{"subject": "Net income", "relation": "HAS_REVENUE", "object": "$22,291 million"}
+{"subject": "Net cash from operations", "relation": "HAS_REVENUE", "object": "$30,583 million"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Common stock", "relation": "ISSUED", "object": "$685 million"}
+{"subject": "Common stock", "relation": "REPURCHASED", "object": "$4,831 million"}
+{"subject": "Common stock", "relation": "DIVIDENDS_PAID", "object": "$5,051 million"}
+{"subject": "Microsoft", "relation": "CASH_EQUIVALENTS_START", "object": "$34,704 million"}
+{"subject": "Microsoft", "relation": "CASH_EQUIVALENTS_END", "object": "$80,452 million"}
+{"subject": "Common stock and paid-in capital", "relation": "Balance, beginning of period", "object": "$93,718 million"}
+{"subject": "Common stock and paid-in capital", "relation": "Balance, end of period", "object": "$95,508 million"}
+{"subject": "Retained earnings", "relation": "Balance, beginning of period", "object": "$118,848 million"}
+{"subject": "Retained earnings", "relation": "Balance, end of period", "object": "$132,143 million"}
+{"subject": "Accumulated other comprehensive loss", "relation": "Balance, beginning of period", "object": "($6,343 million)"}
+{"subject": "Accumulated other comprehensive loss", "relation": "Balance, end of period", "object": "($6,937 million)"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "unaudited interim consolidated financial statements"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "accompanying notes"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "results for the interim periods presented"}
+{"subject": "Microsoft Corporation", "relation": "ANNOUNCED_ON", "object": "July 27, 2023"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "fiscal year 2023"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "revenue"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "product returns"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "product refunds"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "product warranties"}
+{"subject": "product returns and refunds", "relation": "HAS_REVENUE", "object": "variable consideration"}
+{"subject": "goodwill and intangible assets", "relation": "PRODUCES", "object": "reporting units"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "interest-earning investments", "relation": "PRODUCES", "object": "cash equivalents"}
+{"subject": "Operating income", "relation": "increased by", "object": "$2.8 billion"}
+{"subject": "Gross margin", "relation": "increased by", "object": "$2.9 billion"}
+{"subject": "Azure and other cloud services", "relation": "drive", "object": "Gross margin"}
+{"subject": "Operating expenses", "relation": "increased by", "object": "$86 million"}
+{"subject": "Investments", "relation": "in", "object": "Azure and other cloud services"}
+{"subject": "More Personal Computing Revenue", "relation": "increased by", "object": "$334 million"}
+{"subject": "Windows revenue", "relation": "increased by", "object": "$254 million"}
+{"subject": "Windows Commercial and Windows OEM", "relation": "drive", "object": "Windows revenue"}
+{"subject": "Windows Commercial products and cloud services revenue", "relation": "increased by", "object": "8%"}
+{"subject": "Demand for Microsoft 365", "relation": "drive", "object": "Windows Commercial products and cloud services revenue"}
+{"subject": "Windows OEM revenue", "relation": "increased by", "object": "4%"}
+{"subject": "Gaming revenue", "relation": "increased by", "object": "$309 million"}
+{"subject": "Xbox content and services", "relation": "drive", "object": "Gaming revenue"}
+{"subject": "Xbox content and services revenue", "relation": "increased by", "object": "13%"}
+{"subject": "First-party content and Xbox Game Pass", "relation": "drive", "object": "Xbox content and services revenue"}
+{"subject": "Xbox hardware revenue", "relation": "increased by", "object": "unknown"}
+{"subject": "investments", "relation": "CLASSIFIED_AS", "object": "cash equivalents"}
+{"subject": "investments", "relation": "CLASSIFIED_AS", "object": "short-term investments"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "certain assets and liabilities at fair value"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "fair value measurements"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "Level 1 investments include U.S. government securities, common and preferred stock, and mutual funds"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "Level 1 derivative assets and liabilities actively traded on exchanges"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "Level 2 inputs based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in markets that are not active, and model-based valuation techniques"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "Black-Scholes model for which all significant inputs are observable"}
+{"subject": "Black-Scholes model", "relation": "PRODUCES", "object": "model-based valuation techniques"}
+{"subject": "models", "relation": "PROJECT", "object": "future cash flows"}
+{"subject": "models", "relation": "DISCOUNT", "object": "future amounts to a present value"}
+{"subject": "models", "relation": "USE", "object": "market-based observable inputs"}
+{"subject": "interest rate curves", "relation": "USED_IN", "object": "discounting future amounts"}
+{"subject": "credit spreads", "relation": "USED_IN", "object": "discounting future amounts"}
+{"subject": "foreign exchange rates", "relation": "USED_IN", "object": "discounting future amounts"}
+{"subject": "forward and spot prices for currencies", "relation": "USED_IN", "object": "discounting future amounts"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "commercial paper"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "certificates of deposit"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "U.S. agency securities"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "foreign government bonds"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "mortgage- and asset-backed securities"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "corporate notes and bonds"}
+{"subject": "Level 2 investments", "relation": "INCLUDE", "object": "municipal securities"}
+{"subject": "Level 2 derivative assets", "relation": "INCLUDE", "object": "cleared swap contracts"}
+{"subject": "Level 2 derivative assets", "relation": "INCLUDE", "object": "over-the-counter forward contracts"}
+{"subject": "Level 2 derivative assets", "relation": "INCLUDE", "object": "option contracts"}
+{"subject": "Level 2 derivative assets", "relation": "INCLUDE", "object": "swap contracts"}
+{"subject": "Level 3 assets and liabilities", "relation": "INCLUDES", "object": "investments in corporate notes and bonds, municipal securities, and goodwill and intangible assets"}
+{"subject": "Unobservable inputs", "relation": "SIGNIFICANT_TO", "object": "fair values of the assets and liabilities"}
+{"subject": "Equity investments without readily determinable fair values", "relation": "MEASURED_ON", "object": "nonrecurring basis"}
+{"subject": "Fair values of investments with no readily determinable fair values", "relation": "DETERMINED_BASED_ON", "object": "valuation techniques using the best information available, quoted market prices, market comparables, and discounted cash flow projections"}
+{"subject": "long-term accounts receivable", "relation": "HAS_REVENUE", "object": "$4.5 billion"}
+{"subject": "other receivables", "relation": "HAS_REVENUE", "object": "$10.2 billion"}
+{"subject": "other receivables", "relation": "HAS_REVENUE", "object": "$9.2 billion"}
+{"subject": "short-term financing receivables", "relation": "INCLUDED_IN", "object": "other current assets"}
+{"subject": "long-term financing receivables", "relation": "INCLUDED_IN", "object": "other long-term assets"}
+{"subject": "allowance", "relation": "RECORDED_FOR", "object": "expected losses"}
+{"subject": "EPS", "relation": "COMPUTED_BASED_ON", "object": "weighted average number of shares of common stock outstanding"}
+{"subject": "Diluted EPS", "relation": "COMPUTED_BASED_ON", "object": "weighted average number of shares of common stock plus dilutive potential common shares using the treasury stock method"}
+{"subject": "Dilutive potential common shares", "relation": "INCLUDES", "object": "outstanding stock options and stock awards"}
+{"subject": "Net income", "relation": "EARNED_IN", "object": "Three Months Ended September 30, 2023"}
+{"subject": "Net income", "relation": "HAS_REVENUE", "object": "$22,291"}
+{"subject": "Net income", "relation": "HAS_REVENUE", "object": "$17,556"}
+{"subject": "Weighted average outstanding shares", "relation": "PRODUCES", "object": "Common stock and common stock equivalents"}
+{"subject": "Earnings Per Share Basic", "relation": "HAS_REVENUE", "object": "$3.00"}
+{"subject": "Earnings Per Share Diluted", "relation": "HAS_REVENUE", "object": "$2.99"}
+{"subject": "Interest and dividends income", "relation": "OTHER_INCOME", "object": "$1,166 million"}
+{"subject": "Interest expense", "relation": "OTHER_INCOME", "object": "($525) million"}
+{"subject": "Net recognized gains (losses) on investments", "relation": "OTHER_INCOME", "object": "($107) million"}
+{"subject": "Net gains on derivatives", "relation": "OTHER_INCOME", "object": "$93 million"}
+{"subject": "Net losses on foreign currency remeasurements", "relation": "OTHER_INCOME", "object": "($101) million"}
+{"subject": "Other, net", "relation": "OTHER_INCOME", "object": "($137) million"}
+{"subject": "Realized gains from sales of available-for-sale securities", "relation": "NET_RECOGNIZED_GAINS_DEBT_INVESTMENTS", "object": "$2 million"}
+{"subject": "Realized losses from sales of available-for-sale securities", "relation": "NET_RECOGNIZED_GAINS_DEBT_INVESTMENTS", "object": "($25) million"}
+{"subject": "Impairments and allowance for credit losses", "relation": "NET_RECOGNIZED_GAINS_DEBT_INVESTMENTS", "object": "($6) million"}
+{"subject": "Net realized gains on investments sold", "relation": "NET_RECOGNIZED_GAINS_EQUITY_INVESTMENTS", "object": "$45 million"}
+{"subject": "Net realized gains", "relation": "HAS_REVENUE", "object": "$45 million"}
+{"subject": "Net unrealized losses", "relation": "HAS_REVENUE", "object": "$123 million"}
+{"subject": "Impairments of investments", "relation": "HAS_REVENUE", "object": "$0 million"}
+{"subject": "Commercial paper", "relation": "IS_CEO_OF", "object": "$3,008 million"}
+{"subject": "Certificates of deposit", "relation": "IS_CEO_OF", "object": "$1,694 million"}
+{"subject": "U.S. government securities", "relation": "IS_CEO_OF", "object": "$52,065 million"}
+{"subject": "U.S. agency securities", "relation": "IS_CEO_OF", "object": "$29 million"}
+{"subject": "Foreign government bonds", "relation": "IS_CEO_OF", "object": "$493 million"}
+{"subject": "Mortgage- and asset-backed securities", "relation": "IS_CEO_OF", "object": "$812 million"}
+{"subject": "Corporate notes and bonds", "relation": "IS_CEO_OF", "object": "$9,834 million"}
+{"subject": "Municipal securities", "relation": "IS_CEO_OF", "object": "$263 million"}
+{"subject": "Total debt investments", "relation": "HAS_REVENUE", "object": "$ 63,493"}
+{"subject": "Equity investments Level 1", "relation": "HAS_REVENUE", "object": "$ 2,570"}
+{"subject": "Equity investments Other", "relation": "HAS_REVENUE", "object": "$ 8,853"}
+{"subject": "Cash", "relation": "HAS_REVENUE", "object": "$ 7,378"}
+{"subject": "Cash and Cash Equivalents", "relation": "HAS_REVENUE", "object": "$12,231 million"}
+{"subject": "Short-term Investments", "relation": "HAS_REVENUE", "object": "$4,358 million"}
+{"subject": "Equity Investments", "relation": "HAS_REVENUE", "object": "$78,550 million"}
+{"subject": "Total debt investments", "relation": "HAS_REVENUE", "object": "$95,332"}
+{"subject": "Equity investments Level 1", "relation": "HAS_REVENUE", "object": "$10,138"}
+{"subject": "Equity investments Other", "relation": "HAS_REVENUE", "object": "$7,187"}
+{"subject": "Cash", "relation": "HAS_REVENUE", "object": "$8,478"}
+{"subject": "Derivatives, net", "relation": "HAS_REVENUE", "object": "$6"}
+{"subject": "Equity investments", "relation": "PRODUCES", "object": "Equity investments Level 1"}
+{"subject": "Equity investments", "relation": "PRODUCES", "object": "Equity investments Other"}
+{"subject": "Equity investments", "relation": "PRODUCES", "object": "Total equity investments"}
+{"subject": "Microsoft Cloud", "relation": "HAS_REVENUE", "object": "revenue and amounts that will be invoiced and recognized as revenue in future periods"}
+{"subject": "Microsoft Cloud", "relation": "HAS_REVENUE", "object": "Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties"}
+{"subject": "Microsoft Cloud", "relation": "HAS_REVENUE", "object": "Gross margin percentage"}
+{"subject": "Productivity and Business Processes", "relation": "PRODUCES", "object": "Revenue from Office Commercial products and cloud services"}
+{"subject": "Productivity and Business Processes", "relation": "PRODUCES", "object": "Metrics related to our Productivity and Business Processes and Intelligent Cloud segments assess the health of our core businesses within these segments"}
+{"subject": "Intelligent Cloud", "relation": "PRODUCES", "object": "Metrics related to our Productivity and Business Processes and Intelligent Cloud segments assess the health of our core businesses within these segments"}
+{"subject": "Office Commercial", "relation": "HAS_REVENUE", "object": "Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security"}
+{"subject": "equity investments", "relation": "HAS_REVENUE", "object": "$4.2 billion"}
+{"subject": "equity investments", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "equity investments", "relation": "ANNOUNCED_ON", "object": "June 30, 2023"}
+{"subject": "U.S. government and agency securities", "relation": "HAS_REVENUE", "object": "$4,147 million"}
+{"subject": "Foreign government bonds", "relation": "HAS_REVENUE", "object": "$24 million"}
+{"subject": "Mortgage- and asset-backed securities", "relation": "HAS_REVENUE", "object": "$52 million"}
+{"subject": "Corporate notes and bonds", "relation": "HAS_REVENUE", "object": "$612 million"}
+{"subject": "Municipal securities", "relation": "HAS_REVENUE", "object": "$37 million"}
+{"subject": "U.S. government and agency securities", "relation": "HAS_REVENUE", "object": "$53,223"}
+{"subject": "Foreign government bonds", "relation": "HAS_REVENUE", "object": "$468"}
+{"subject": "Mortgage- and asset-backed securities", "relation": "HAS_REVENUE", "object": "$669"}
+{"subject": "Corporate notes and bonds", "relation": "HAS_REVENUE", "object": "$9,662"}
+{"subject": "Municipal securities", "relation": "HAS_REVENUE", "object": "$297"}
+{"subject": "Unrealized losses from fixed-income securities", "relation": "IS_CEO_OF", "object": "primarily attributable to changes in interest rates"}
+{"subject": "Debt Investment Maturities", "relation": "PRODUCES", "object": "maturities of debt investments"}
+{"subject": "Debt Investment Maturities", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "$73,272"}
+{"subject": "Date", "relation": "DUE_IN_ONE_YEAR_OR_LESS", "object": "$13,575"}
+{"subject": "Date", "relation": "DUE_AFTER_ONE_YEAR_THROUGH_FIVE_YEARS", "object": "$46,882"}
+{"subject": "Date", "relation": "DUE_AFTER_FIVE_YEARS_THROUGH_TEN_YEARS", "object": "$11,489"}
+{"subject": "Date", "relation": "DUE_AFTER_TEN_YEARS", "object": "$1,326"}
+{"subject": "Company", "relation": "PRODUCES", "object": "Derivatives"}
+{"subject": "Company", "relation": "USES_DERIVATIVES", "object": "Foreign currencies, interest rates, equity prices, and credit"}
+{"subject": "foreign currency risks", "relation": "ARE_HEDGED_USING", "object": "foreign exchange forward contracts"}
+{"subject": "certain Euro-denominated debt", "relation": "ARE_HEDGED_USING", "object": "foreign exchange forward contracts"}
+{"subject": "interest rate risks", "relation": "ARE_HEDGED_USING", "object": "interest rate swaps"}
+{"subject": "securities held in our fixed-income portfolio", "relation": "ARE_SUBJECT_TO", "object": "different interest rate risks"}
+{"subject": "securities held in our fixed-income portfolio", "relation": "MANAGE", "object": "average maturity"}
+{"subject": "Equity Securities", "relation": "IS_SUBJECT_TO", "object": "market price risk"}
+{"subject": "Fixed-Income Portfolio", "relation": "HAS_RISK", "object": "interest rate risks"}
+{"subject": "Fixed-Income Portfolio", "relation": "HAS_RISK", "object": "credit risk"}
+{"subject": "Equity Investments Portfolio", "relation": "HAS_RISK", "object": "market price risk"}
+{"subject": "Credit Default Swap Contracts", "relation": "MANAGE", "object": "credit exposures"}
+{"subject": "Fixed-Income Portfolio", "relation": "CONSISTS_PRIMARILY_OF", "object": "investment-grade securities"}
+{"subject": "derivative instruments", "relation": "IS_CEO_OF", "object": "outstanding"}
+{"subject": "$1.0 billion", "relation": "MINIMUM LIQUIDITY", "object": "long-term unsecured debt"}
+{"subject": "long-term unsecured debt", "relation": "REQUIRES", "object": "investment grade credit rating"}
+{"subject": "$1.0 billion", "relation": "EXCESS OF", "object": "cash investments"}
+{"subject": "long-term unsecured debt", "relation": "RATING", "object": "AAA"}
+{"subject": "Total debt", "relation": "HAS_REVENUE", "object": "$45,694"}
+{"subject": "Total debt", "relation": "HAS_REVENUE", "object": "$47,237"}
+{"subject": "Long-term debt", "relation": "HAS_REVENUE", "object": "$41,946"}
+{"subject": "Long-term debt", "relation": "HAS_REVENUE", "object": "$41,990"}
+{"subject": "Foreign exchange contracts purchased", "relation": "PRODUCES", "object": "Hedging Instruments"}
+{"subject": "Interest rate contracts purchased", "relation": "PRODUCES", "object": "Hedging Instruments"}
+{"subject": "Foreign exchange contracts purchased", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Foreign exchange contracts sold", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Equity contracts purchased", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Equity contracts sold", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Other contracts purchased", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Other contracts sold", "relation": "PRODUCES", "object": "Not Designated as Hedging Instruments"}
+{"subject": "Foreign exchange contracts", "relation": "DESIGNATED_AS", "object": "Hedging Instruments"}
+{"subject": "Interest rate contracts", "relation": "DESIGNATED_AS", "object": "Hedging Instruments"}
+{"subject": "Foreign exchange contracts", "relation": "NOT_DESIGNATED_AS", "object": "Hedging Instruments"}
+{"subject": "Equity contracts", "relation": "NOT_DESIGNATED_AS", "object": "Hedging Instruments"}
+{"subject": "Other contracts", "relation": "NOT_DESIGNATED_AS", "object": "Hedging Instruments"}
+{"subject": "Derivative Assets", "relation": "REPORTED_AS", "object": "Short-term investments"}
+{"subject": "Derivative Assets", "relation": "REPORTED_AS", "object": "Other current assets"}
+{"subject": "Derivative Liabilities", "relation": "REPORTED_AS", "object": "Other current liabilities"}
+{"subject": "Derivative Liabilities", "relation": "REPORTED_AS", "object": "Other long-term liabilities"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Interest rate contracts", "relation": "HAS_REVENUE", "object": "$ (16) million"}
+{"subject": "Foreign exchange contracts", "relation": "HAS_REVENUE", "object": "$ 206 million"}
+{"subject": "Equity contracts", "relation": "HAS_REVENUE", "object": "$ 113 million"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "Raw materials", "relation": "PRODUCES", "object": "$ 520"}
+{"subject": "Work in process", "relation": "PRODUCES", "object": "$ 15"}
+{"subject": "Finished goods", "relation": "PRODUCES", "object": "$ 2,465"}
+{"subject": "Productivity and Business Processes", "relation": "HAS_REVENUE", "object": "$ 24,759"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "$ 30,420"}
+{"subject": "More Personal Computing", "relation": "HAS_REVENUE", "object": "$ 12,611"}
+{"subject": "Intangible assets", "relation": "HAS_REVENUE", "object": "$23,655 million"}
+{"subject": "Intangible assets", "relation": "HAS_REVENUE", "object": "$23,490 million"}
+{"subject": "Intangible assets", "relation": "HAS_REVENUE", "object": "$636 million"}
+{"subject": "Intangible assets", "relation": "HAS_REVENUE", "object": "$633 million"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$25.8 billion"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$3.8 billion", "maturity": "2039", "stated_interest_rate": "5.20%", "effective_interest_rate": "5.24%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$4.8 billion", "maturity": "2040", "stated_interest_rate": "4.50%", "effective_interest_rate": "4.57%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$2.3 billion", "maturity": "2041", "stated_interest_rate": "5.30%", "effective_interest_rate": "5.36%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$2.3 billion", "maturity": "2042", "stated_interest_rate": "3.50%", "effective_interest_rate": "3.57%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$5.2 billion", "maturity": "2023\u20132043", "stated_interest_rate": "3.63%\u20134.88%", "effective_interest_rate": "3.73%\u20134.92%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "\u20ac4.1 billion", "maturity": "2028\u20132033", "stated_interest_rate": "2.63%\u20133.13%", "effective_interest_rate": "2.69%\u20133.22%"}
+{"subject": "September 30, 2023", "relation": "DEBT", "object": "$23.8 billion", "issue_year": "2015"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Office Consumer products and cloud services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Microsoft 365 Consumer subscriptions"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Dynamics products and cloud services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Teams"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Viva"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft 365 Copilot"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Dynamics 365"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "365 Commercial subscriptions"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "Office 365 Commercial seat growth"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "Microsoft 365 Consumer subscribers"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "Dynamics products and cloud services"}
+{"subject": "long-term debt", "relation": "HAS_REVENUE", "object": "$41.8 billion"}
+{"subject": "long-term debt", "relation": "HAS_REVENUE", "object": "$46.2 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "distributed through foreign regional operations center in Ireland"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "tax benefits from tax law changes in the first quarter of fiscal year 2024"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "impact from the issuance of Notice 2023-55 by the IRS and U.S. Treasury Department"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "delayed effective date of final foreign tax credit regulations to fiscal year 2024"}
+{"subject": "IRS", "relation": "AUDITING", "object": "Microsoft"}
+{"subject": "Microsoft", "relation": "UNRECOGNIZED_TAX_BENEFITS", "object": "$19.8 billion"}
+{"subject": "Microsoft", "relation": "UNRECOGNIZED_TAX_BENEFITS", "object": "$18.7 billion"}
+{"subject": "IRS", "relation": "SEEKING", "object": "$28.9 billion plus penalties and interest"}
+{"subject": "Microsoft", "relation": "DISAGREE_WITH", "object": "proposed adjustments"}
+{"subject": "Microsoft", "relation": "WILL_CONTEST", "object": "NOPAs"}
+{"subject": "Microsoft", "relation": "ADEQUATE_ALLOWANCES", "object": "income tax contingencies"}
+{"subject": "Productivity and Business Processes", "relation": "HAS_REVENUE", "object": "$25.316 billion"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "$19.471 billion"}
+{"subject": "More Personal Computing", "relation": "HAS_REVENUE", "object": "$4.401 billion"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "$19.471 billion"}
+{"subject": "More Personal Computing", "relation": "HAS_REVENUE", "object": "$4.401 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$49.188 billion"}
+{"subject": "September 30, 2023", "relation": "ANNOUNCED_ON", "object": "Microsoft"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$216 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "datacenters, corporate offices, research and development facilities, Microsoft Experience Centers, and certain equipment"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "lease expense"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "right-of-use assets"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "lease terms"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "remaining performance obligations"}
+{"subject": "Operating lease cost", "relation": "Operating lease cost", "object": "$ 775"}
+{"subject": "Operating lease cost", "relation": "Operating lease cost", "object": "$ 662"}
+{"subject": "Finance lease cost", "relation": "Amortization of right-of-use assets", "object": "$ 380"}
+{"subject": "Finance lease cost", "relation": "Amortization of right-of-use assets", "object": "$ 189"}
+{"subject": "Finance lease cost", "relation": "Interest on lease liabilities", "object": "$ 149"}
+{"subject": "Finance lease cost", "relation": "Interest on lease liabilities", "object": "$ 113"}
+{"subject": "Total finance lease cost", "relation": "Total finance lease cost", "object": "$ 529"}
+{"subject": "Total finance lease cost", "relation": "Total finance lease cost", "object": "$ 302"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Operating cash flows from operating leases", "object": "$ 795"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Operating cash flows from operating leases", "object": "$ 654"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Operating cash flows from finance leases", "object": "$ 149"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Operating cash flows from finance leases", "object": "$ 113"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Financing cash flows from finance leases", "object": "$ 285"}
+{"subject": "Cash paid for amounts included in the measurement of lease liabilities", "relation": "Financing cash flows from finance leases", "object": "$ 256"}
+{"subject": "Right-of-use assets obtained in exchange for lease obligations", "relation": "Operating leases", "object": "$ 1,804"}
+{"subject": "Right-of-use assets obtained in exchange for lease obligations", "relation": "Operating leases", "object": "$ 1,189"}
+{"subject": "Right-of-use assets obtained in exchange for lease obligations", "relation": "Finance leases", "object": "$ 1,704"}
+{"subject": "Right-of-use assets obtained in exchange for lease obligations", "relation": "Finance leases", "object": "$ 611"}
+{"subject": "Operating lease right-of-use assets", "relation": "OWNED_BY", "object": "Company"}
+{"subject": "Operating lease liabilities", "relation": "OWED_TO", "object": "Company"}
+{"subject": "Property and equipment, at cost", "relation": "OWNED_BY", "object": "Company"}
+{"subject": "Property and equipment, net", "relation": "OWNED_BY", "object": "Company"}
+{"subject": "Total finance lease liabilities", "relation": "OWED_TO", "object": "Company"}
+{"subject": "Weighted Average Remaining Lease Term", "relation": "RELATED_TO", "object": "Company"}
+{"subject": "Weighted Average Discount Rate", "relation": "RELATED_TO", "object": "Company"}
+{"subject": "Company", "relation": "PRODUCES", "object": "lease liabilities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "lease payments"}
+{"subject": "Company", "relation": "PRODUCES", "object": "imputed interest"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "$7.5 billion"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "$75.1 billion"}
+{"subject": "Revenue", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Date", "relation": "ANNOUNCED_ON", "object": "fiscal year 2024"}
+{"subject": "Date", "relation": "ANNOUNCED_ON", "object": "fiscal year 2030"}
+{"subject": "Microsoft Mobile Oy", "relation": "IS_SUBSIDIARY_OF", "object": "Microsoft"}
+{"subject": "Microsoft Mobile Oy", "relation": "HAS_CONTINGENCIES", "object": "U.S. Cell Phone Litigation"}
+{"subject": "Microsoft Mobile Oy", "relation": "IS_DEFENDANT_IN", "object": "46 lawsuits"}
+{"subject": "Microsoft Mobile Oy", "relation": "ASSUMED_RESPONSIBILITY_FOR", "object": "claims in agreement to acquire Nokia's Devices and Services business"}
+{"subject": "Microsoft Mobile Oy", "relation": "HAS_SUBSTITUTED_FOR", "object": "Nokia defendants"}
+{"subject": "Superior Court for the District of Columbia", "relation": "FILED_BY", "object": "45 lawsuits by individual plaintiffs"}
+{"subject": "Court of Appeals for the District of Columbia", "relation": "HELD", "object": "2009 decision regarding adverse health effect claims from cellular handsets"}
+{"subject": "Federal Communications Commission", "relation": "ISSUES", "object": "radio frequency emission guidelines"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "LinkedIn"}
+{"subject": "LinkedIn", "relation": "IS_CEO_OF", "object": "IDPC"}
+{"subject": "IDPC", "relation": "ANNOUNCED_ON", "object": "2018"}
+{"subject": "LinkedIn", "relation": "VIOLATED", "object": "European Union General Data Protection Regulation (GDPR)"}
+{"subject": "Microsoft", "relation": "COOPERATED", "object": "period of inquiry"}
+{"subject": "IDPC", "relation": "PROVIDED", "object": "LinkedIn with a non-public preliminary draft decision alleging GDPR violations and proposing a fine"}
+{"subject": "Microsoft", "relation": "INTENDS TO CHALLENGE", "object": "preliminary draft decision"}
+{"subject": "IDPC", "relation": "ISSUE", "object": "final decision"}
+{"subject": "Microsoft", "relation": "ACCRUED", "object": "$597 million"}
+{"subject": "Company", "relation": "ACCUMULATED_LEGAL_LIABILITIES", "object": "$597 million"}
+{"subject": "Company", "relation": "POSSIBLE_ADVERSE_OUTCOMES", "object": "approximately $600 million"}
+{"subject": "Company", "relation": "MATERIAL_IMPACT", "object": "consolidated financial statements"}
+{"subject": "Company", "relation": "SHARE_REPURCHASE_PROGRAM", "object": "$60.0 billion"}
+{"subject": "Company", "relation": "REMAINING_SHARE_REPURCHASE", "object": "$18.7 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$5,573 million"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$5,066 million"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$1.3 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$973 million"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "September 19, 2023"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "September 20, 2022"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Board of Directors"}
+{"subject": "Board of Directors", "relation": "PRODUCES", "object": "dividends"}
+{"subject": "Derivatives", "relation": "Balance, beginning of period", "object": "$ (27) $ (13)"}
+{"subject": "Derivatives", "relation": "Unrealized losses", "object": "$ (15)"}
+{"subject": "Derivatives", "relation": "Reclassification adjustments for losses included in other income (expense), net", "object": "$ 46 $ 59"}
+{"subject": "Derivatives", "relation": "Tax benefit included in provision for income taxes", "object": "$ (10) $ (12)"}
+{"subject": "Derivatives", "relation": "Amounts reclassified from accumulated other comprehensive loss", "object": "$ 36 $ 47"}
+{"subject": "Derivatives", "relation": "Net change related to derivatives, net of tax", "object": "$ 21 $ 7"}
+{"subject": "Derivatives", "relation": "Balance, end of period", "object": "$ (6) $ (6)"}
+{"subject": "Investments", "relation": "Balance, beginning of period", "object": "$ (3,582) $ (2,138)"}
+{"subject": "Investments", "relation": "Unrealized losses", "object": "$ (283) $ (1,925)"}
+{"subject": "Investments", "relation": "Reclassification adjustments for losses included in other income (expense), net", "object": "$ 29 $ 35"}
+{"subject": "Investments", "relation": "Tax benefit included in provision for income taxes", "object": "$ (6) $ (7)"}
+{"subject": "Investments", "relation": "Amounts reclassified from accumulated other comprehensive loss", "object": "$ 23 $ 28"}
+{"subject": "Operating expenses", "relation": "INCREASED", "object": "$119 million"}
+{"subject": "Intelligent Cloud Revenue", "relation": "INCREASED", "object": "$3.9 billion"}
+{"subject": "Server products and cloud services revenue", "relation": "INCREASED", "object": "$3.9 billion"}
+{"subject": "Azure and other cloud services revenue", "relation": "GREW", "object": "29%"}
+{"subject": "Server products revenue", "relation": "INCREASED", "object": "2%"}
+{"subject": "Enterprise and partner services revenue", "relation": "INCREASED", "object": "$15 million"}
+{"subject": "LinkedIn", "relation": "DRIVEN BY", "object": "Operating expenses"}
+{"subject": "Azure and other cloud services", "relation": "DRIVEN BY", "object": "Server products and cloud services revenue"}
+{"subject": "Windows Server and SQL Server", "relation": "DRIVEN BY", "object": "Server products revenue"}
+{"subject": "Enterprise Support Services", "relation": "DRIVEN BY", "object": "Enterprise and partner services revenue"}
+{"subject": "tax benefit", "relation": "INCLUDED_IN", "object": "provision for income taxes"}
+{"subject": "net change", "relation": "RELATED_TO", "object": "investments"}
+{"subject": "Translation Adjustments and Other", "relation": "BALANCE_BEGINNING_OF_PERIOD", "object": "$ (2,734)"}
+{"subject": "Translation Adjustments and Other", "relation": "BALANCE_END_OF_PERIOD", "object": "$ (3,089)"}
+{"subject": "chief operating decision maker", "relation": "IS_CEO_OF", "object": "company"}
+{"subject": "Productivity and Business Processes", "relation": "CONSISTS_OF", "object": "Office Commercial, Office Consumer"}
+{"subject": "Office Commercial", "relation": "PRODUCES", "object": "Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, Microsoft Viva, Microsoft 365 Copilot"}
+{"subject": "Office Consumer", "relation": "PRODUCES", "object": "Microsoft 365 Consumer subscriptions, other Office services"}
+{"subject": "LinkedIn", "relation": "PRODUCES", "object": "Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions"}
+{"subject": "Dynamics business solutions", "relation": "PRODUCES", "object": "Dynamics 365, ERP, CRM (including Customer Insights), Power Apps, and Power Automate"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "Azure, SQL Server, Windows Server, Visual Studio, System Center, Nuance, GitHub"}
+{"subject": "Intelligent Cloud", "relation": "PRODUCES", "object": "public, private, and hybrid server products and cloud services"}
+{"subject": "More Personal Computing", "relation": "PRODUCES", "object": "products and services related to Enterprise Support Services, Industry Solutions, Nuance professional services, Microsoft Partner Network, and Learning Experience"}
+{"subject": "Windows", "relation": "PRODUCES", "object": "Windows original equipment manufacturer (\u201cOEM\u201d) licensing and other non-volume licensing of the Windows operating system"}
+{"subject": "Windows", "relation": "PRODUCES", "object": "Windows Commercial, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings"}
+{"subject": "Windows", "relation": "PRODUCES", "object": "patent licensing"}
+{"subject": "Windows", "relation": "PRODUCES", "object": "Windows Internet of Things"}
+{"subject": "Devices", "relation": "PRODUCES", "object": "Surface, HoloLens, and PC accessories"}
+{"subject": "Gaming", "relation": "PRODUCES", "object": "Xbox hardware and Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Revenue from subscriptions, Xbox Cloud Gaming, advertising, third-party disc royalties, and other cloud services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Revenue from Search and news advertising, comprising Bing (including Bing Chat), Microsoft News, Microsoft Edge, and third-party affiliates"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Revenue from contracts allocated among segments based on the relative value of the underlying products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Revenue from certain contracts allocated based on actual prices charged, prices when sold separately, or estimated costs plus a profit margin"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Revenue from cost of revenue allocated based on a relative revenue methodology"}
+{"subject": "Microsoft", "relation": "HAS_EXPENSE", "object": "Operating expenses relating to marketing of products and services"}
+{"subject": "Microsoft", "relation": "HAS_EXPENSE", "object": "Operating expenses benefiting multiple segments and allocated based on"}
+{"subject": "Microsoft", "relation": "HAS_EXPENSE", "object": "Operating expenses allocated based on a relative revenue methodology"}
+{"subject": "Productivity and Business Processes", "relation": "HAS_REVENUE", "object": "$18,592 million"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "$24,259 million"}
+{"subject": "More Personal Computing", "relation": "HAS_REVENUE", "object": "$13,666 million"}
+{"subject": "Productivity and Business Processes", "relation": "PRODUCES", "object": "$9,970 million"}
+{"subject": "Intelligent Cloud", "relation": "PRODUCES", "object": "$11,751 million"}
+{"subject": "More Personal Computing", "relation": "PRODUCES", "object": "$5,174 million"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$56,517 million"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Server products and cloud services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Office products and cloud services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Windows"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Gaming"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "LinkedIn"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Search and news advertising"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Enterprise and partner services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Dynamics"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Devices"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Other"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "revenue"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "platforms and tools"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "AI"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "solutions"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "business competitiveness"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "educational and health outcomes"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "public-sector efficiency"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "human ingenuity"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "Server products and cloud services", "relation": "HAS_REVENUE", "object": "$31.8 billion"}
+{"subject": "Server products and cloud services", "relation": "HAS_REVENUE", "object": "$25.7 billion"}
+{"subject": "Office 365 Commercial", "relation": "PRODUCES", "object": "Server products and cloud services"}
+{"subject": "LinkedIn", "relation": "PRODUCES", "object": "Server products and cloud services"}
+{"subject": "Dynamics 365", "relation": "PRODUCES", "object": "Server products and cloud services"}
+{"subject": "Activision Blizzard", "relation": "PRODUCES", "object": "game development and interactive entertainment content"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$61.8 billion"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "purchase price allocation", "relation": "WILL_BE_PROVIDED_WITHIN", "object": "Form 10-Q for the second quarter of fiscal year 2024"}
+{"subject": "purchase price", "relation": "WILL_BE_ALLOCATED_TO", "object": "goodwill and other identifiable intangible assets"}
+{"subject": "Activision Blizzard", "relation": "WILL_BE_REPORTED_AS_PART_OF", "object": "More Personal Computing segment"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "interim financial information"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "consolidated balance sheet"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "consolidated statements of income"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "comprehensive income"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "cash flows"}
+{"subject": "Microsoft Corporation", "relation": "PRODUCES", "object": "stockholders\u2019 equity"}
+{"subject": "Microsoft Corporation", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "not presented herein"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "June 30, 2023"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "July 27, 2023"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "June 30, 2023"}
+{"subject": "Company", "relation": "PRODUCES", "object": "consolidated financial statements"}
+{"subject": "Company", "relation": "PRODUCES", "object": "interim financial information"}
+{"subject": "Company", "relation": "IS_CEO_OF", "object": "management"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "financial condition and results of operations"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "Private Securities Litigation Reform Act of 1995"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "Securities Act of 1933"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "Securities Exchange Act of 1934"}
+{"subject": "Company", "relation": "ANNOUNCED_ON", "object": "Form 10-Q"}
+{"subject": "Company", "relation": "PRODUCES", "object": "forward-looking statements"}
+{"subject": "Company", "relation": "PRODUCES", "object": "estimates"}
+{"subject": "Company", "relation": "PRODUCES", "object": "projections"}
+{"subject": "Company", "relation": "PRODUCES", "object": "business plans"}
+{"subject": "Company", "relation": "PRODUCES", "object": "objectives"}
+{"subject": "Company", "relation": "PRODUCES", "object": "expected operating results"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$31.8 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Cloud solutions"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Office Commercial products and cloud services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Office Consumer products and cloud services"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Office 365 Commercial", "relation": "HAS_REVENUE", "object": "15% growth"}
+{"subject": "Office Consumer products and cloud services", "relation": "HAS_REVENUE", "object": "3% growth"}
+{"subject": "Microsoft 365 Consumer subscribers", "relation": "PRODUCES", "object": "76.7 million"}
+{"subject": "LinkedIn", "relation": "HAS_REVENUE", "object": "8% growth"}
+{"subject": "Dynamics products and cloud services", "relation": "HAS_REVENUE", "object": "22% growth"}
+{"subject": "Dynamics 365", "relation": "PRODUCES", "object": "28% growth"}
+{"subject": "Server products and cloud services", "relation": "HAS_REVENUE", "object": "21% growth"}
+{"subject": "Azure and other cloud services", "relation": "PRODUCES", "object": "29% growth"}
+{"subject": "Windows", "relation": "HAS_REVENUE", "object": "5% growth"}
+{"subject": "Windows original equipment manufacturer licensing", "relation": "HAS_REVENUE", "object": "4% growth"}
+{"subject": "Windows Commercial products and cloud services", "relation": "HAS_REVENUE", "object": "8% growth"}
+{"subject": "Devices", "relation": "HAS_REVENUE", "object": "22% decrease"}
+{"subject": "Xbox content and services", "relation": "HAS_REVENUE", "object": "13% growth"}
+{"subject": "Search and news advertising revenue", "relation": "HAS_REVENUE", "object": "10% growth excluding traffic acquisition costs"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "new products, new technologies, or new ideas"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "broad range of research and development activities"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "dynamic and highly competitive"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "markets for software, devices, and cloud-based services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "competitors developing new software and devices"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "deploying competing cloud-based services for consumers and businesses"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "influencing how users access services in the cloud"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "user\u2019s choice of which suite of cloud-based services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "software, services, and devices"}
+{"subject": "Microsoft", "relation": "INVESTS_IN", "object": "cloud and AI infrastructure"}
+{"subject": "Microsoft", "relation": "INVESTS_IN", "object": "devices"}
+{"subject": "Microsoft", "relation": "INCREASES", "object": "operating costs"}
+{"subject": "Microsoft", "relation": "MAY_DECREASE", "object": "operating margins"}
+{"subject": "Microsoft", "relation": "EXPANDS", "object": "datacenter locations"}
+{"subject": "Microsoft", "relation": "INCREASES", "object": "server capacity"}
+{"subject": "devices", "relation": "PRODUCES", "object": "predictable energy, networking supplies, and servers, including graphics processing units (\u201cGPUs\u201d) and other components"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "international operations", "relation": "HAS_REVENUE", "object": "significant portion of total revenue and expenses"}
+{"subject": "changes in foreign exchange rates", "relation": "AFFECTS", "object": "revenue and expenses"}
+{"subject": "Fluctuations in U.S. dollar", "relation": "DOES_NOT_HAVE_IMPACT", "object": "reported revenue and expenses from international operations"}
+{"subject": "revenue", "relation": "FLUCTUATES_QUARTERLY", "object": "higher in the second and fourth quarters of fiscal year"}
+{"subject": "Second quarter revenue", "relation": "HAS_REVENUE", "object": "driven by corporate year-end spending trends in major markets and holiday season spending by consumers"}
+{"subject": "Fourth quarter revenue", "relation": "HAS_REVENUE", "object": "driven by the volume of multi-year on-premises contracts executed during the period"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": ["Productivity and Business Processes", "Intelligent Cloud", "More Personal Computing"]}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Financial results prepared in accordance with GAAP"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Microsoft Cloud revenue"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "Microsoft Cloud revenue and revenue growth"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Server products and cloud services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Office Commercial"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Windows Commercial"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "LinkedIn"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Enterprise and partner services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Dynamics"}
+{"subject": "LinkedIn", "relation": "HAS_REVENUE", "object": "Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions"}
+{"subject": "Server products and cloud services", "relation": "HAS_REVENUE", "object": "Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (\u201cCALs\u201d); and Nuance and GitHub"}
+{"subject": "Windows OEM", "relation": "HAS_REVENUE", "object": "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel"}
+{"subject": "Windows Commercial products and cloud services", "relation": "HAS_REVENUE", "object": "Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings"}
+{"subject": "Devices", "relation": "HAS_REVENUE", "object": "Revenue from Devices, including Surface, HoloLens, and PC accessories"}
+{"subject": "Xbox content and services", "relation": "HAS_REVENUE", "object": "Revenue from Xbox content and services, comprising"}
+{"subject": "Xbox content and services revenue", "relation": "HAS_REVENUE", "object": "$6.4 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Xbox content and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Search and news advertising"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$56.517 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$50.122 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$40.215 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$34.670 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$26.895 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$21.518 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$22.291 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$17.556 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$2.99 per share"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$2.35 per share"}
+{"subject": "Three Months Ended September 30, 2023", "relation": "HAS_REVENUE", "object": "$6.4 billion"}
+{"subject": "Three Months Ended September 30, 2023", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Intelligent Cloud", "relation": "PRODUCES", "object": "Azure and other cloud services"}
+{"subject": "Productivity and Business Processes", "relation": "PRODUCES", "object": "Office 365 Commercial"}
+{"subject": "Gross margin", "relation": "HAS_REVENUE", "object": "$5.5 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Microsoft Cloud", "relation": "HAS_REVENUE", "object": "73%"}
+{"subject": "Azure", "relation": "PRODUCES", "object": "Microsoft Cloud"}
+{"subject": "Other cloud services", "relation": "PRODUCES", "object": "Microsoft Cloud"}
+{"subject": "Office 365 Commercial", "relation": "PRODUCES", "object": "Microsoft Cloud"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Productivity and Business Processes", "relation": "HAS_REVENUE", "object": "$18.592 billion"}
+{"subject": "Intelligent Cloud", "relation": "HAS_REVENUE", "object": "$24.259 billion"}
+{"subject": "More Personal Computing", "relation": "HAS_REVENUE", "object": "$13.666 billion"}
+{"subject": "Productivity and Business Processes", "relation": "IS_CEO_OF", "object": "$9.970 billion"}
+{"subject": "Intelligent Cloud", "relation": "IS_CEO_OF", "object": "$11.751 billion"}
+{"subject": "More Personal Computing", "relation": "IS_CEO_OF", "object": "$5.174 billion"}
+{"subject": "Office Commercial products", "relation": "HAS_REVENUE", "object": "declined 17%"}
+{"subject": "Office Consumer products and cloud services", "relation": "HAS_REVENUE", "object": "increased $44 million or 3%"}
+{"subject": "Microsoft 365 Consumer subscribers", "relation": "PRODUCES", "object": "grew 18% to 76.7 million"}
+{"subject": "LinkedIn", "relation": "HAS_REVENUE", "object": "increased $285 million or 8%"}
+{"subject": "Dynamics products and cloud services", "relation": "HAS_REVENUE", "object": "increased $280 million or 22%"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "increased $1.8 billion or 13%"}
+{"subject": "Operating expenses", "relation": "increased", "object": "$119 million or 2%"}
+{"subject": "Intelligent Cloud Revenue", "relation": "HAS_REVENUE", "object": "increased $3.9 billion or 19%"}
+{"subject": "Xbox content and services", "relation": "HAS_REVENUE", "object": "increased 13%"}
+{"subject": "Xbox Game Pass", "relation": "PRODUCES", "object": "growth in first-party content"}
+{"subject": "Xbox hardware", "relation": "HAS_REVENUE", "object": "decreased 7%"}
+{"subject": "Search and news advertising", "relation": "HAS_REVENUE", "object": "increased $140 million or 5%"}
+{"subject": "Search and news advertising", "relation": "HAS_REVENUE", "object": "excluding traffic acquisition costs increased 10%"}
+{"subject": "Devices", "relation": "HAS_REVENUE", "object": "decreased $323 million or 22%"}
+{"subject": "Devices", "relation": "OPERATING_INCOME", "object": "increased $957 million or 23%"}
+{"subject": "Gross margin", "relation": "INCREASED", "object": "$920 million or 13%"}
+{"subject": "Gross margin percentage", "relation": "INCREASED", "object": "primarily driven by sales mix shift"}
+{"subject": "Operating expenses", "relation": "DECREASED", "object": "$37 million or 1%"}
+{"subject": "Research and development", "relation": "HAS_REVENUE", "object": "$6,659 million"}
+{"subject": "Research and development", "relation": "HAS_REVENUE", "object": "$6,659 million"}
+{"subject": "Research and development", "relation": "HAS_REVENUE", "object": "$6,628 million"}
+{"subject": "Research and development", "relation": "PRODUCES", "object": "payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development"}
+{"subject": "Research and development", "relation": "PRODUCES", "object": "third-party development and programming costs and the amortization of purchased software code and services content"}
+{"subject": "Sales and marketing", "relation": "HAS_REVENUE", "object": "$5,187 million"}
+{"subject": "Sales and marketing", "relation": "HAS_REVENUE", "object": "$5,126 million"}
+{"subject": "Sales and marketing expenses", "relation": "INCREASED_BY", "object": "$61 million"}
+{"subject": "Sales and marketing expenses", "relation": "DRIVEN_BY", "object": "investments in Gaming"}
+{"subject": "General and administrative expenses", "relation": "INCLUDES", "object": "payroll, employee benefits, stock-based compensation expense, employee severance expense"}
+{"subject": "General and administrative expenses", "relation": "INCURRED_AS_PART_OF", "object": "corporate program"}
+{"subject": "General and administrative expenses", "relation": "ASSOCIATED_WITH", "object": "finance, legal, facilities, certain human resources and other administrative personnel, certain taxes"}
+{"subject": "General and administrative expenses", "relation": "increased by", "object": "$76 million or 5% driven by legal expenses"}
+{"subject": "Interest and dividends income", "relation": "Three Months Ended", "object": "$1,166"}
+{"subject": "Interest expense", "relation": "Three Months Ended", "object": "($525)"}
+{"subject": "Net recognized gains (losses) on investments", "relation": "Three Months Ended", "object": "($107)"}
+{"subject": "Net gains on derivatives", "relation": "Three Months Ended", "object": "$93"}
+{"subject": "Net losses on foreign currency remeasurements", "relation": "Three Months Ended", "object": "($101)"}
+{"subject": "Interest and dividends income", "relation": "INCREASED", "object": "higher yields and higher portfolio balances"}
+{"subject": "Interest expense", "relation": "INCREASED", "object": "issuance of commercial paper"}
+{"subject": "Net recognized losses on investments", "relation": "INCREASED", "object": "losses on equity securities in the current period"}
+{"subject": "Net gains on derivatives", "relation": "INCREASED", "object": "higher gains on equity derivatives"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "IRS", "relation": "IS_AUDITING", "object": "Company"}
+{"subject": "IRS", "relation": "SEEKS_PAYMENT_OF", "object": "$28.9 billion plus penalties and interest"}
+{"subject": "IRS", "relation": "DISAGREES_WITH", "object": "Proposed adjustments"}
+{"subject": "IRS", "relation": "WILL_CONTEST", "object": "NOPAs"}
+{"subject": "IRS", "relation": "EXPECTS_RESOLUTION_WITHIN", "object": "not next 12 months"}
+{"subject": "IRS", "relation": "ANTICIPATES_INCREASE_OR_DECREASE_WITHIN", "object": "not next 12 months"}
+{"subject": "income tax contingencies", "relation": "SUBJECT_TO", "object": "income tax in many jurisdictions outside the U.S."}
+{"subject": "operations", "relation": "SUBJECT_TO", "object": "examination for tax years 1996 to 2023"}
+{"subject": "operations", "relation": "UNDER_AUDIT_BY", "object": "local tax authorities"}
+{"subject": "existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets", "relation": "EXPECTED_TO_BE", "object": "sufficient to fund operating activities and cash commitments for investing and financing activities"}
+{"subject": "existing cash, cash equivalents, short-term investments, cash flows from operations, and access to capital markets", "relation": "EXPECTED_TO_BE", "object": "sufficient to fund dividends, share repurchases, debt maturities, material capital expenditures, and transition tax related to the Tax Cuts and Jobs Act for at least the next 12 months and thereafter for the foreseeable future"}
+{"subject": "Cash, Cash Equivalents, and Investments", "relation": "TOTAL_AS_OF", "object": "$144.0 billion as of September 30, 2023"}
+{"subject": "Cash, Cash Equivalents, and Investments", "relation": "TOTAL_AS_OF", "object": "$111.3 billion as of June 30, 2023"}
+{"subject": "Equity investments", "relation": "TOTAL_AS_OF", "object": "$11.4 billion as of September 30, 2023"}
+{"subject": "Equity investments", "relation": "TOTAL_AS_OF", "object": "$9.9 billion as of June 30, 2023"}
+{"subject": "Company", "relation": "PRODUCES", "object": "financial instruments"}
+{"subject": "Company", "relation": "PRODUCES", "object": "Level 1 investments"}
+{"subject": "Company", "relation": "PRODUCES", "object": "U.S. government securities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "common and preferred stock"}
+{"subject": "Company", "relation": "PRODUCES", "object": "mutual funds"}
+{"subject": "Company", "relation": "PRODUCES", "object": "Level 2 investments"}
+{"subject": "Company", "relation": "PRODUCES", "object": "commercial paper"}
+{"subject": "Company", "relation": "PRODUCES", "object": "certificates of deposit"}
+{"subject": "Company", "relation": "PRODUCES", "object": "U.S. agency securities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "foreign government bonds"}
+{"subject": "Company", "relation": "PRODUCES", "object": "mortgage- and asset-backed securities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "corporate notes and bonds"}
+{"subject": "Company", "relation": "PRODUCES", "object": "municipal securities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "Level 3 investments"}
+{"subject": "Company", "relation": "PRODUCES", "object": "internally-developed models"}
+{"subject": "Company", "relation": "PRODUCES", "object": "assets and liabilities measured at fair value"}
+{"subject": "Level 3 investments", "relation": "VALUED_USING", "object": "internally-developed models with unobservable inputs"}
+{"subject": "Assets and liabilities", "relation": "MEASURED_AT", "object": "fair value on a recurring basis using unobservable inputs"}
+{"subject": "investments", "relation": "PRICED_BY", "object": "pricing vendors"}
+{"subject": "pricing vendors", "relation": "PROVIDE", "object": "quoted market price in an active market or use observable inputs for their pricing without applying significant adjustments"}
+{"subject": "broker pricing", "relation": "USED_MAINLY_WHEN", "object": "quoted price is not available, the investment is not priced by pricing vendors, or when a broker price is more reflective of fair values in the market in which the investment trades"}
+{"subject": "broker-priced investments", "relation": "CLASSIFIED_AS", "object": "Level 2 investments because the broker prices these investments based on similar assets without applying significant adjustments"}
+{"subject": "Cash from operations", "relation": "INCREASED TO", "object": "$30.6 billion"}
+{"subject": "Cash from financing", "relation": "INCREASED TO", "object": "$14.8 billion"}
+{"subject": "Cash from investing", "relation": "INCREASED TO", "object": "$503 million"}
+{"subject": "debt", "relation": "ISSUED_FOR", "object": "general corporate purposes"}
+{"subject": "debt", "relation": "ISSUED_FOR", "object": "working capital"}
+{"subject": "debt", "relation": "ISSUED_FOR", "object": "capital expenditures"}
+{"subject": "debt", "relation": "ISSUED_FOR", "object": "acquisitions"}
+{"subject": "debt", "relation": "ISSUED_FOR", "object": "repayment of existing debt"}
+{"subject": "unearned revenue", "relation": "COMPRISING", "object": "unearned revenue related to volume licensing programs"}
+{"subject": "Unearned Revenue", "relation": "COMPRISING", "object": "mainly unearned revenue related to volume licensing programs, which may include Software Assurance (\u201cSA\u201d) and cloud services"}
+{"subject": "Unearned Revenue", "relation": "IS_INVOICED", "object": "annually at the beginning of each contract period for multi-year agreements"}
+{"subject": "Unearned Revenue", "relation": "IS_RECOGNIZED", "object": "ratably over the coverage period"}
+{"subject": "Unearned Revenue", "relation": "ALSO_INCLUDES", "object": "payments for other offerings for which we have been paid in advance and earn the revenue when we transfer control of the product or service"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$49,188 million"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "cloud-based versions of products and services"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "September 30, 2023"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "December 31, 2023"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "March 31, 2024"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "June 30, 2024"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "September 30, 2024"}
+{"subject": "TCJA", "relation": "HAS_REVENUE", "object": "$7.7 billion"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "common stock"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$3.6 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$4.6 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$18.7 billion"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$60 billion"}
+{"subject": "Board of Directors", "relation": "DECLARES_DIVIDENDS", "object": "$5.6 billion"}
+{"subject": "Board of Directors", "relation": "DECLARES_DIVIDENDS", "object": "$5.1 billion"}
+{"subject": "Company", "relation": "ACQUIRED", "object": "Activision Blizzard, Inc."}
+{"subject": "Company", "relation": "PAID_AMOUNT", "object": "$61.8 billion"}
+{"subject": "Microsoft", "relation": "INVESTS_IN", "object": "AI infrastructure"}
+{"subject": "Microsoft", "relation": "HAS_LEASES_FOR", "object": ["datacenters", "corporate offices", "research and development facilities", "Microsoft Experience Centers", "certain equipment"]}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "Revenue"}
+{"subject": "Company", "relation": "HAS_CRITICAL_ACCOUNTING_ESTIMATES", "object": "Critical Accounting Estimates"}
+{"subject": "Company", "relation": "HAS_CONTRACTS_WITH_CUSTOMERS", "object": "Contracts with customers"}
+{"subject": "Company", "relation": "REQUIRES_ESTIMATES_AND_ASSUMPTIONS_BY_MANAGEMENT", "object": "Estimates and assumptions"}
+{"subject": "Company", "relation": "AFFECTS_REPORTED_AMOUNTS", "object": "Reported amounts of assets, liabilities, revenue, and expenses"}
+{"subject": "Company", "relation": "HAS_IMPACT_ON_FINANCIAL_CONDITION", "object": "Financial condition"}
+{"subject": "Company", "relation": "HAS_IMPACT_ON_RESULTS_OF_OPERATIONS", "object": "Results of operations"}
+{"subject": "Company", "relation": "HAS_CRITICAL_ACCOUNTING_ESTIMATES_IN", "object": "Areas of revenue recognition, impairment of investment securities, goodwill, research and development costs, legal and other contingencies, income taxes, and inventories"}
+{"subject": "Contracts with customers", "relation": "INCLUDES_PROMISES_TO_TRANSFER", "object": "Promises to transfer multiple products and services to a customer"}
+{"subject": "Company", "relation": "HAS_PROMISES_TO_TRANSFER_PRODUCTS_AND_SERVICES", "object": "Promises to transfer multiple products and services to a customer"}
+{"subject": "cloud-based service", "relation": "INCLUDES", "object": "on-premises software licenses"}
+{"subject": "cloud-based service", "relation": "INCLUDES", "object": "cloud services"}
+{"subject": "Office 365", "relation": "DEPENDS_ON", "object": "level of integration, interdependency, and interrelation between desktop applications and cloud services"}
+{"subject": "Revenue from Office 365", "relation": "RECOGNIZED_OVER", "object": "period in which the cloud services are provided"}
+{"subject": "SSP", "relation": "IS_NOT_DIRECTLY_OBSERVABLE", "object": "market conditions and other observable inputs"}
+{"subject": "SSP", "relation": "HAS_MULTIPLE_VALUES", "object": "individual products and services"}
+{"subject": "SSP", "relation": "USES_RANGE_OF_AMOUNTS", "object": "when selling products and services separately"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "on-premises licenses with SA or software updates"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "Microsoft", "relation": "HAS_SSP", "object": "multiple SSPs for individual products and services"}
+{"subject": "products", "relation": "ARE_SOLD_WITH", "object": "right of return"}
+{"subject": "products", "relation": "ARE_ACCOUNTED_FOR_AS", "object": "variable consideration"}
+{"subject": "returns and credits", "relation": "ARE_ESTIMATED_AT", "object": "contract inception"}
+{"subject": "returns and credits", "relation": "ARE_UPDATED_AT", "object": "end of each reporting period"}
+{"subject": "changes to estimated variable consideration", "relation": "WERE_NOT_MATERIAL_FOR", "object": "periods presented"}
+{"subject": "debt investments", "relation": "ARE_REVIEWED_FOR", "object": "credit losses and impairment"}
+{"subject": "Goodwill", "relation": "ALLOCATED_TO", "object": "reporting units"}
+{"subject": "Goodwill", "relation": "TESTED_FOR_IMPAIRMENT", "object": "at the reporting unit level"}
+{"subject": "Goodwill", "relation": "REASSIGNED", "object": "using a relative fair value allocation approach"}
+{"subject": "Goodwill", "relation": "TESTED_FOR_IMPAIRMENT", "object": "on an annual basis"}
+{"subject": "Goodwill", "relation": "TESTED_FOR_IMPAIRMENT", "object": "between annual tests if an event occurs or circumstances change"}
+{"subject": "Goodwill", "relation": "TESTED_FOR_IMPAIRMENT", "object": "more likely than not reduce the fair value of a reporting unit below its carrying value"}
+{"subject": "Goodwill impairment test", "relation": "REQUIRES", "object": "judgment, including the identification of reporting units"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "financial data"}
+{"subject": "Company", "relation": "PRODUCES", "object": "assets and liabilities"}
+{"subject": "Company", "relation": "PRODUCES", "object": "goodwill"}
+{"subject": "Company", "relation": "PRODUCES", "object": "fair value"}
+{"subject": "Company", "relation": "PRODUCES", "object": "reporting units"}
+{"subject": "Company", "relation": "PRODUCES", "object": "weighted average cost of capital"}
+{"subject": "Company", "relation": "PRODUCES", "object": "cash flows"}
+{"subject": "Company", "relation": "PRODUCES", "object": "future cash flows"}
+{"subject": "Company", "relation": "PRODUCES", "object": "long-term rate of growth"}
+{"subject": "Company", "relation": "PRODUCES", "object": "useful life"}
+{"subject": "Company", "relation": "PRODUCES", "object": "fair value of a reporting unit"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "operating results"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "market conditions"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "other factors"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "estimates"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "assumptions"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "determination of fair value"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "goodwill impairment"}
+{"subject": "Research and Development Costs", "relation": "COST_INCURRED_IN", "object": "developing a computer software product"}
+{"subject": "computer software product", "relation": "HAS_STATUS", "object": "technological feasibility established"}
+{"subject": "software costs", "relation": "CAPITALIZED_UNTIL", "object": "product is available for general release to customers"}
+{"subject": "technological feasibility", "relation": "REACHED_AFTER", "object": "all high-risk development issues have been resolved through coding and testing"}
+{"subject": "amortization of costs", "relation": "INCLUDED_IN", "object": "cost of revenue over the estimated life of the products"}
+{"subject": "Legal and Other Contingencies", "relation": "OUTCOMES_AFFECTED_BY", "object": "legal proceedings and claims"}
+{"subject": "Entity", "relation": "HAS_REVENUE", "object": "Financial statements"}
+{"subject": "Entity", "relation": "HAS_REVENUE", "object": "Tax returns"}
+{"subject": "Uncertain tax position", "relation": "IS_CEO_OF", "object": "Tax benefit"}
+{"subject": "Tax benefits recognized", "relation": "IS_CEO_OF", "object": "Financial statements"}
+{"subject": "Tax benefits recognized", "relation": "IS_CEO_OF", "object": "Position"}
+{"subject": "Position", "relation": "IS_CEO_OF", "object": "Benefit"}
+{"subject": "Income tax assets", "relation": "PRODUCES", "object": "Liabilities"}
+{"subject": "Accounting literature", "relation": "PRODUCES", "object": "Guidance"}
+{"subject": "Income tax assets", "relation": "PRODUCES", "object": "Liabilities"}
+{"subject": "Interest and penalties", "relation": "PRODUCES", "object": "Tax positions"}
+{"subject": "Inventories", "relation": "COST_INCLUDES", "object": "materials, labor, and manufacturing overhead"}
+{"subject": "Inventories", "relation": "NET_REALIZABLE_VALUE", "object": "estimated selling price less estimated costs of completion, disposal, and transportation"}
+{"subject": "Inventories", "relation": "REVIEWED_BY", "object": "We"}
+{"subject": "Inventories", "relation": "REDUCED_BY", "object": "charge to cost of revenue"}
+{"subject": "Company", "relation": "EXPOSED_TO", "object": "economic risk from foreign exchange rates, interest rates, credit risk, and equity prices"}
+{"subject": "Company", "relation": "USES", "object": "derivatives instruments to manage risks"}
+{"subject": "Company", "relation": "IMPACTS", "object": "consolidated financial statements"}
+{"subject": "Company", "relation": "MONITORS", "object": "foreign currency exposures daily"}
+{"subject": "Company", "relation": "MAXIMIZES", "object": "economic effectiveness of foreign currency positions"}
+{"subject": "Company", "relation": "INCLUDES", "object": "hedges for foreign currency positions"}
+{"subject": "Company", "relation": "HAS_EXPOSURE_TO", "object": ["Euro", "Japanese yen", "British pound", "Canadian dollar", "Australian dollar"]}
+{"subject": "Company", "relation": "MANAGES", "object": "average maturity of fixed-income portfolio"}
+{"subject": "Company", "relation": "ACHIEVES", "object": "economic returns that correlate to global fixed-income indices"}
+{"subject": "Credit", "relation": "IS_CEO_OF", "object": "Our fixed-income portfolio"}
+{"subject": "Equity", "relation": "PRODUCES", "object": "Price risk"}
+{"subject": "Equity", "relation": "PRODUCES", "object": "Securities"}
+{"subject": "Foreign currency", "relation": "HAS_REVENUE", "object": "10% decrease in foreign exchange rates"}
+{"subject": "Foreign currency", "relation": "PRODUCES", "object": "Revenue impact of $8,240 million"}
+{"subject": "Interest rate", "relation": "PRODUCES", "object": "100 basis point increase in U.S. treasury interest rates"}
+{"subject": "Interest rate", "relation": "PRODUCES", "object": "Fair value impact of $1,660 million"}
+{"subject": "Credit", "relation": "PRODUCES", "object": "100 basis point increase in future earnings or fair values"}
+{"subject": "Chief Executive Officer", "relation": "IS_CEO_OF", "object": "Management"}
+{"subject": "Chief Financial Officer", "relation": "IS_CEO_OF", "object": "Management"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "lower revenue"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "operating margins"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "financial resources"}
+{"subject": "Company", "relation": "MAKES", "object": "innovative products, devices, and services"}
+{"subject": "Company", "relation": "COMPETES_IN", "object": "rapidly evolving markets"}
+{"subject": "Company", "relation": "CREATES", "object": "platform-based ecosystems"}
+{"subject": "Company", "relation": "DEPENDS_ON", "object": "success in innovation"}
+{"subject": "Company", "relation": "FACES", "object": "significant competition"}
+{"subject": "Company", "relation": "NEEDS", "object": "significant scale in the marketplace"}
+{"subject": "single firm", "relation": "CONTROLS", "object": "software and hardware elements"}
+{"subject": "single firm", "relation": "EARN_REVENUE_FROM", "object": "services integrated with hardware and software platform"}
+{"subject": "single firm", "relation": "EARN_REVENUE_FROM", "object": "applications and content sold through integrated marketplaces"}
+{"subject": "single firm", "relation": "CLAIMS", "object": "security and performance benefits from vertically integrated offer"}
+{"subject": "Microsoft", "relation": "OFFERS", "object": "vertically-integrated hardware and software products and services"}
+{"subject": "Microsoft", "relation": "SHIFT", "object": "portion of business to vertically integrated model"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Windows operating systems", "relation": "PRODUCES", "object": "substantial revenue"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "software products and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "licenses of Windows operating systems"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "licenses of Windows operating systems"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "PC operating system platforms"}
+{"subject": "smartphones and tablet computers", "relation": "COMPETE_WITH", "object": "personal computers"}
+{"subject": "personal computers", "relation": "COMPETE_WITH", "object": "smartphones and tablet computers"}
+{"subject": "devices", "relation": "PERCEIVED_AS", "object": "complementary to a personal computer"}
+{"subject": "application developers", "relation": "ATTRACTED_TO", "object": "PC operating system platforms"}
+{"subject": "PC operating system margins", "relation": "DECREASED_BY", "object": "operating systems licensed at low or no cost"}
+{"subject": "Competing platforms", "relation": "HAVE_CONTENT_AND_APPLICATION_MARKETPLACES", "object": "scale and significant installed bases"}
+{"subject": "Users", "relation": "MAY_INCUR_COSTS", "object": "to move data and buy new content and applications when switching platforms"}
+{"subject": "We", "relation": "MUST_ENLIST_DEVELOPERS", "object": "to write applications for our platform"}
+{"subject": "We", "relation": "MUST_ENSURE", "object": "applications have high quality, security, customer appeal, and value"}
+{"subject": "Efforts", "relation": "MAY_INCREASE", "object": "cost of revenue and lower our operating margins"}
+{"subject": "Competitors' rules", "relation": "MAY_RESTRICT", "object": "our ability to distribute products and services through them in accordance with our technical and business model objectives"}
+{"subject": "Companies", "relation": "COMPETE_WITH_US", "object": "based on a growing variety of business models"}
+{"subject": "LinkedIn", "relation": "PRODUCES", "object": "valuable information and content protected by contractual restrictions or technical measures"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "valuable information and content protected by contractual restrictions or technical measures"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "value of our products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "value of our products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "value of our products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "value of our products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "$24.3 billion"}
+{"subject": "Company", "relation": "COMPETE_WITH", "object": "Microsoft"}
+{"subject": "Microsoft", "relation": "HAS_BUSINESS_MODEL", "object": "Infrastructure-, platform-, and software-as-a-service business model"}
+{"subject": "Microsoft", "relation": "HAS_BUSINESS_MODEL", "object": "License-based proprietary software model"}
+{"subject": "Microsoft", "relation": "GENERATES_REVENUE_FROM", "object": "License-based proprietary software model"}
+{"subject": "Microsoft", "relation": "INVESTS_IN", "object": "Artificial intelligence (AI)"}
+{"subject": "Microsoft", "relation": "INFUSES", "object": "Generative AI capabilities into consumer and commercial offerings"}
+{"subject": "Microsoft", "relation": "EXPECTS", "object": "AI technology and services to be a highly competitive and rapidly evolving market"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "advertising revenue"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "free applications"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "online services"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "content"}
+{"subject": "competitors", "relation": "PRODUCES", "object": "advertising"}
+{"subject": "companies", "relation": "PRODUCES", "object": "open source software"}
+{"subject": "companies", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "firms", "relation": "PRODUCES", "object": "advertising"}
+{"subject": "firms", "relation": "PRODUCES", "object": "products and services"}
+{"subject": "Microsoft", "relation": "INCREASING_FOCUS", "object": "cloud-based services"}
+{"subject": "Microsoft", "relation": "PRESENTS_RISKS", "object": "execution and competitive risks"}
+{"subject": "Microsoft", "relation": "VISION", "object": "compete and grow by building best-in-class platforms and productivity services"}
+{"subject": "Microsoft", "relation": "UTILIZES", "object": "ubiquitous computing and ambient intelligence"}
+{"subject": "competitors", "relation": "RAPIDLY_DEVELOPING", "object": "cloud-based services"}
+{"subject": "competitors", "relation": "DEVELOPING", "object": "cloud-based services"}
+{"subject": "competitors", "relation": "DEPLOYING", "object": "cloud-based services"}
+{"subject": "Pricing and delivery models", "relation": "EVOLVING", "object": null}
+{"subject": "Devices and form factors", "relation": "INFLUENCING", "object": "how users access services in the cloud"}
+{"subject": "Devices and form factors", "relation": "INFLUENCING", "object": "user\u2019s choice of which cloud-based services to use"}
+{"subject": "Certain industries and customers", "relation": "PRESENTING", "object": "enhanced risks"}
+{"subject": "Windows ecosystem", "relation": "EVOLVING WITH", "object": "changing environment"}
+{"subject": "intelligent cloud and intelligent edge offerings", "relation": "CONNECTED TO", "object": "growth of the Internet of Things"}
+{"subject": "network of distributed and interconnected devices", "relation": "EMPLOYING", "object": "sensors, data, and computing capabilities"}
+{"subject": "network of distributed and interconnected devices", "relation": "INCLUDING", "object": "AI"}
+{"subject": "Azure", "relation": "PRODUCES", "object": "Azure AI"}
+{"subject": "Azure", "relation": "PRODUCES", "object": "Azure IoT Edge"}
+{"subject": "cloud computing services", "relation": "COSTS_INCURRED", "object": "software development costs"}
+{"subject": "cloud computing services", "relation": "REDUCE", "object": "operating margins"}
+{"subject": "cloud-based experiences", "relation": "GENERATE", "object": "increasing traffic and market share"}
+{"subject": "cloud-based services", "relation": "MAINTAIN", "object": "utility, compatibility, and performance on various computing devices"}
+{"subject": "cloud platforms", "relation": "ENHANCE", "object": "attractiveness to third-party developers"}
+{"subject": "cloud-based services", "relation": "MEET", "object": "reliability expectations of customers and maintain security of their data"}
+{"subject": "cloud-based services", "relation": "HELP", "object": "customers meet their own compliance needs"}
+{"subject": "cloud-based services platform", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "strategies", "relation": "HAS_REVENUE", "object": "users"}
+{"subject": "strategies", "relation": "HAS_REVENUE", "object": "revenue"}
+{"subject": "organizational and technical changes", "relation": "IS_CEO_OF", "object": "efficiency and accelerate innovation"}
+{"subject": "products and services", "relation": "HAS_REVENUE", "object": "usage"}
+{"subject": "users", "relation": "MAY_NEGATIVELY_IMPACT", "object": "gross margins and operating income"}
+{"subject": "users", "relation": "MAY_ENGAGE_IN", "object": "fraudulent or abusive activities"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "adverse impacts"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "reputational damage"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Windows operating system"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft 365"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Bing"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "SQL Server"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Windows Server"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Azure"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Office 365"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Xbox"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "LinkedIn"}
+{"subject": "AI platform services", "relation": "PRODUCES", "object": "new products and services"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "speculative"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "commercial success"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "innovativeness"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "developer support"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "distribution and marketing"}
+{"subject": "customers", "relation": "affect", "object": "revenue"}
+{"subject": "new products and services", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "new product", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "new service", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "new distribution channel", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "New products and services", "relation": "MAY_NOT_BE", "object": "profitable"}
+{"subject": "New products and services", "relation": "MAY_BE", "object": "profitable"}
+{"subject": "New products and services", "relation": "MAY_NOT_BE", "object": "operating"}
+{"subject": "New products and services", "relation": "MAY_BE", "object": "operating"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Edge"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Bing"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Bing Chat"}
+{"subject": "Microsoft", "relation": "ACQUISITION", "object": "Nuance Communications, Inc."}
+{"subject": "Microsoft", "relation": "ACQUISITION", "object": "Activision Blizzard, Inc."}
+{"subject": "Microsoft", "relation": "STRATEGIC_PARTNERSHIP", "object": "OpenAI"}
+{"subject": "Nuance Communications, Inc.", "relation": "ACQUIRED_BY", "object": "Microsoft"}
+{"subject": "Activision Blizzard, Inc.", "relation": "ACQUIRED_BY", "object": "Microsoft"}
+{"subject": "OpenAI", "relation": "PARTNERSHIP_WITH", "object": "Microsoft"}
+{"subject": "acquisition", "relation": "ANNOUNCED_ON", "object": "completed"}
+{"subject": "acquisition", "relation": "HAS_REVENUE", "object": "increased revenue"}
+{"subject": "acquisition", "relation": "PRODUCES", "object": "enhanced efficiencies"}
+{"subject": "acquisition", "relation": "PRODUCES", "object": "new products and services"}
+{"subject": "acquisition", "relation": "PRODUCES", "object": "compelling new ones"}
+{"subject": "acquisition", "relation": "PRODUCES", "object": "full benefits"}
+{"subject": "acquisition", "relation": "PRODUCES", "object": "smaller benefits than expected"}
+{"subject": "Federal Trade Commission", "relation": "CHALLENGES", "object": "Activision Blizzard acquisition"}
+{"subject": "our consolidated financial statements", "relation": "COULD BE ADVERSELY AFFECTED BY", "object": "events"}
+{"subject": "our goodwill or amortizable intangible assets", "relation": "MAY BE IMPAIRED", "object": "required to record a significant charge to earnings"}
+{"subject": "We acquire other companies and intangible assets", "relation": "MAY CAUSE", "object": "an impairment of goodwill or intangibles"}
+{"subject": "We review our amortizable intangible assets for impairment", "relation": "WHEN INDICATE", "object": "the carrying value may not be recoverable"}
+{"subject": "We test goodwill for impairment", "relation": "AT LEAST ANNUALLY", "object": ""}
+{"subject": "Factors", "relation": "MAY INDICATE", "object": "that the carrying value of our goodwill or amortizable intangible assets may not be recoverable"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "reduced revenue"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "increased costs"}
+{"subject": "hackers", "relation": "POSE_THREAT_TO", "object": "IT security"}
+{"subject": "organizations", "relation": "POSE_THREAT_TO", "object": "IT security"}
+{"subject": "state-sponsored organizations", "relation": "POSE_THREAT_TO", "object": "IT security"}
+{"subject": "nation-states", "relation": "POSE_THREAT_TO", "object": "IT security"}
+{"subject": "actors", "relation": "MAY_USE", "object": "malicious software"}
+{"subject": "actors", "relation": "MAY_USE", "object": "social engineering techniques"}
+{"subject": "actors", "relation": "MAY_USE", "object": "coordinated attacks"}
+{"subject": "actors", "relation": "MAY_USE", "object": "vulnerabilities"}
+{"subject": "actors", "relation": "MAY_USE", "object": "intentionally designed processes"}
+{"subject": "actors", "relation": "MAY_USE", "object": "exploiting hardware, software, or other infrastructure"}
+{"subject": "actors", "relation": "MAY_USE", "object": "distributed denial of service attacks"}
+{"subject": "actors", "relation": "MAY_USE", "object": "gaining access to networks and datacenters"}
+{"subject": "actors", "relation": "MAY_USE", "object": "inducing employees, users, partners, or customers to disclose sensitive information"}
+{"subject": "nation-state actors", "relation": "MAY_DEPLOY", "object": "significant resources"}
+{"subject": "Cyberthreats", "relation": "CAN_HAVE", "object": "cascading impacts"}
+{"subject": "Breaches", "relation": "CAN_RESULT_IN", "object": "product development delays"}
+{"subject": "Breaches", "relation": "CAN_RESULT_IN", "object": "compromise confidential or technical business information"}
+{"subject": "Breaches", "relation": "CAN_RESULT_IN", "object": "theft or misuse of intellectual property"}
+{"subject": "Breaches", "relation": "CAN_RESULT_IN", "object": "ransomware attacks"}
+{"subject": "Breaches", "relation": "CAN_RESULT_IN", "object": "require us to take actions"}
+{"subject": "intellectual property", "relation": "THEFT_OR_MISUSE", "object": "our assets"}
+{"subject": "ransomware attacks", "relation": "AFFECT", "object": "our business"}
+{"subject": "cyberattacks", "relation": "INTRODUCE", "object": "malware to a software provider\u2019s customers"}
+{"subject": "software updates", "relation": "INTRODUCE", "object": "malware to customers"}
+{"subject": "IT environment", "relation": "EVOLVE", "object": "continues to evolve"}
+{"subject": "new devices and technologies", "relation": "ADOPT", "object": "often"}
+{"subject": "data sharing methods", "relation": "EMBRACE", "object": "new ways of sharing data"}
+{"subject": "AI models", "relation": "CREATE", "object": "new attack methods"}
+{"subject": "business policies and security controls", "relation": "NOT KEEP PACE", "object": "with changes and new threats"}
+{"subject": "cybersecurity regulations", "relation": "EMERGE", "object": "new cybersecurity regulations"}
+{"subject": "security controls", "relation": "ARE_IMPORTANT_FOR", "object": "customers' data"}
+{"subject": "security threats", "relation": "ARE_CHALLENGE_TO", "object": "technology companies"}
+{"subject": "customers", "relation": "RELY_ON", "object": "security of infrastructure"}
+{"subject": "adversaries", "relation": "FOCUS_ON", "object": "popular operating systems, programs, and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Exchange Server on-premises products"}
+{"subject": "calendar year 2021", "relation": "ANNOUNCED_ON", "object": "several of our Exchange Server on-premises products"}
+{"subject": "user account information", "relation": "CAN_COMPROMISE", "object": "our users\u2019 accounts"}
+{"subject": "inadequate account security practices", "relation": "MAY_RESULT_IN", "object": "unauthorized access"}
+{"subject": "inadequate account security practices", "relation": "MAY_RESULT_IN", "object": "user activity"}
+{"subject": "user activity", "relation": "MAY_RESULT_IN", "object": "ransomware or other malicious software impacting a customer\u2019s use of our products or services"}
+{"subject": "open source software", "relation": "MAY_CONTAIN_VULNERABILITIES", "object": "our products"}
+{"subject": "generative AI features", "relation": "ARE_BEING_ADDED_TO", "object": "our services"}
+{"subject": "generative AI", "relation": "IS_A_NEW_AREA", "object": "field"}
+{"subject": "understanding of security risks and protection methods", "relation": "CONTINUES_TO_DEVELOP", "object": "features that rely on generative AI"}
+{"subject": "features that rely on generative AI", "relation": "MAY_BE_SUSCEPTIBLE_TO", "object": "unanticipated security threats from sophisticated adversaries"}
+{"subject": "customers", "relation": "OPERATE", "object": "complex IT systems with third-party hardware and software from multiple vendors"}
+{"subject": "customers", "relation": "OPERATE", "object": "complex IT systems"}
+{"subject": "customers", "relation": "EXPECT", "object": "products and services to support all systems and products"}
+{"subject": "products and services", "relation": "SUPPORT", "object": "systems acquired over many years"}
+{"subject": "products and services", "relation": "SUPPORT", "object": "systems that no longer incorporate current security advances or standards"}
+{"subject": "we", "relation": "MAY_NOT_BE_ABLE_TO_DISCONTINUE_SUPPORT", "object": "product, service, standard, or feature solely because a more secure alternative is available"}
+{"subject": "Failure to utilize the most current security advances and standards", "relation": "CAN_INCREASE_VULNERABILITY_TO", "object": "attack"}
+{"subject": "customers", "relation": "HAVE", "object": "widely varied size and technical sophistication"}
+{"subject": "customers", "relation": "MAY_HAVE", "object": "limited capabilities and resources"}
+{"subject": "we", "relation": "MUST_ACCOUNT_FOR", "object": "wide variation of technical sophistication when defining default settings"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "Cyberattacks", "relation": "MAY_ADVERSELY_IMPACT", "object": "customers"}
+{"subject": "customers", "relation": "HAVE_BEEN_IMPACTED", "object": "systems"}
+{"subject": "customers", "relation": "HELP_PROTECT", "object": "themselves"}
+{"subject": "guidance", "relation": "PROVIDED_ON", "object": "detection, tracking, and remediation"}
+{"subject": "attacks", "relation": "INVOLVE", "object": "on-premises software such as Exchange Server"}
+{"subject": "Exchange Server", "relation": "HAS_NO_OR_LIMITED_VISIBILITY", "object": "customers\u2019 computing environments"}
+{"subject": "defensive measures", "relation": "DEVELOPMENT_AND_DEPLOYMENT", "object": "To defend against security threats"}
+{"subject": "products and services", "relation": "ENGINEERED_FOR", "object": "more secure"}
+{"subject": "products and services", "relation": "ENHANCE", "object": "security, threat detection, and reliability"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "secure products and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "security tools"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "firewalls"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "anti-virus software"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "advanced security"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "operating margins"}
+{"subject": "products and services", "relation": "PRODUCES", "object": "revenue"}
+{"subject": "products and customer-facing services", "relation": "CAN_REDCE", "object": "operating margins"}
+{"subject": "security vulnerabilities", "relation": "CAN_HARM", "object": "reputation"}
+{"subject": "security vulnerabilities", "relation": "CAN_HARM", "object": "revenue"}
+{"subject": "data corruption issues", "relation": "CAN_HARM", "object": "reputation"}
+{"subject": "data corruption issues", "relation": "CAN_HARM", "object": "revenue"}
+{"subject": "reduced performance", "relation": "CAN_HARM", "object": "reputation"}
+{"subject": "reduced performance", "relation": "CAN_HARM", "object": "revenue"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "future purchases"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "subscriptions"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "use of competing products"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "use of competing services"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "adoption of additional products"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "adoption of additional services"}
+{"subject": "customers", "relation": "CAN_REDCE", "object": "revenue"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "update of systems"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "running software we no longer support"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "running operating systems we no longer support"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "timely installation of security patches"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "adoption of security practices"}
+{"subject": "third parties", "relation": "CAN_REDCE", "object": "revenue"}
+{"subject": "reputation", "relation": "AFFECTS", "object": "revenue"}
+{"subject": "vulnerabilities", "relation": "MAY_LEAD_TO", "object": "claims against us"}
+{"subject": "license agreements", "relation": "CONTAIN", "object": "provisions that eliminate or limit our exposure to liability"}
+{"subject": "provisions", "relation": "MAY_WITHSTAND", "object": "legal challenges"}
+{"subject": "agreements", "relation": "MAY_ENTER_INTO", "object": "larger liability exposure to customers"}
+{"subject": "products", "relation": "DEPENDENT_ON", "object": "products and components across a broad ecosystem of third parties"}
+{"subject": "security vulnerability", "relation": "RESULTS_IN", "object": "increased costs, liability claims, reduced revenue, or harm to our reputation or competitive position"}
+{"subject": "disclosure and misuse of personal data", "relation": "RESULTS_IN", "object": "liability and harm our reputation"}
+{"subject": "Company", "relation": "PRODUCES", "object": "cloud-based offerings"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "large amounts of personal data of our customers and users"}
+{"subject": "Company", "relation": "PRODUCES", "object": "security controls"}
+{"subject": "Company", "relation": "PRODUCES", "object": "training of employees and third parties on data security"}
+{"subject": "Company", "relation": "PRODUCES", "object": "practices"}
+{"subject": "Company", "relation": "PRODUCES", "object": "security controls over personal data"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "improper disclosure or misuse of customer or user data"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "improper disclosure or misuse could harm our reputation"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "lead to legal exposure to customers or users"}
+{"subject": "Company", "relation": "HAS_REVENUE", "object": "subject us to"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "software products and services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "cloud-based environment"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "cloud-based solutions"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "increased costs"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "loss of revenue"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "sales of our products"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "adoption of our cloud-based solutions"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "Government authorities can sometimes require us to produce customer or user data in response to valid legal orders."}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "transparency concerning requests for customer or user data"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "appropriate limitations on government authority to compel disclosure"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "efforts to protect customer and user data"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "perceptions that the collection, use, and retention of personal information is not satisfactorily protected"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Advertising"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft News"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Store"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Bing"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Xbox"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "substantial investments in people and technology"}
+{"subject": "Microsoft", "relation": "ANNOUNCED_ON", "object": "digital safety abuses"}
+{"subject": "Microsoft Store", "relation": "PRODUCES", "object": "Xbox"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "consolidated financial statements"}
+{"subject": "Microsoft", "relation": "ADVERSELY_AFFECTS", "object": "business"}
+{"subject": "Microsoft", "relation": "ADVERSELY_AFFECTS", "object": "consolidated financial statements"}
+{"subject": "Microsoft", "relation": "ADVERSELY_AFFECTS", "object": "reputation"}
+{"subject": "Microsoft", "relation": "ADVERSELY_AFFECTS", "object": "brands"}
+{"subject": "Microsoft", "relation": "ADVERSELY_AFFECTS", "object": "user engagement"}
+{"subject": "Microsoft", "relation": "IS_SUBJECT_TO", "object": "enhanced regulatory oversight"}
+{"subject": "Microsoft", "relation": "IS_SUBJECT_TO", "object": "civil or criminal liability"}
+{"subject": "Microsoft", "relation": "IS_SUBJECT_TO", "object": "reputational damage"}
+{"subject": "IoT", "relation": "PRODUCES", "object": "products, services, and technologies"}
+{"subject": "IoT", "relation": "HAS_RISKS", "object": "security, privacy, and execution risks"}
+{"subject": "IoT solution", "relation": "HAS_RISKS", "object": "defects in design, manufacture, or operation"}
+{"subject": "IoT solution", "relation": "HAS_RISKS", "object": "insecurity or ineffectiveness"}
+{"subject": "IoT solution", "relation": "HAS_LAYERS", "object": "hardware, sensors, processors, software, firmware"}
+{"subject": "IoT device", "relation": "HAS_LIMITED", "object": "interfaces and ability to be updated or patched"}
+{"subject": "IoT solutions", "relation": "COLLECT", "object": "large amounts of data"}
+{"subject": "IoT data", "relation": "MAY_NOT_SATISFY", "object": "customers or regulatory requirements"}
+{"subject": "IoT scenarios", "relation": "AFFECT", "object": "personal health and safety"}
+{"subject": "IoT solutions", "relation": "MAY_AFFECT", "object": "personal health and safety"}
+{"subject": "IoT solutions", "relation": "MAY_BE_SUBJECT_TO", "object": "legal claims or enforcement actions"}
+{"subject": "risks", "relation": "MAY_INCREASE", "object": "costs"}
+{"subject": "risks", "relation": "MAY_DAMAGE", "object": "reputation or brands"}
+{"subject": "risks", "relation": "MAY_NEGATIVELY_IMPACT", "object": "revenues or margins"}
+{"subject": "Microsoft", "relation": "DEVELOPING", "object": "AI"}
+{"subject": "Microsoft", "relation": "MAKING_AVAILABLE", "object": "AI"}
+{"subject": "Microsoft", "relation": "EXPECTING", "object": "Business growth"}
+{"subject": "Microsoft", "relation": "ENVISIONING", "object": "Future with AI"}
+{"subject": "Microsoft", "relation": "HELPING", "object": "Customers be more productive"}
+{"subject": "AI", "relation": "PRESENTING", "object": "Risks and challenges"}
+{"subject": "AI", "relation": "CONTAINING", "object": "Biased information"}
+{"subject": "AI", "relation": "GENERATING", "object": "Content"}
+{"subject": "Microsoft", "relation": "AFFECTING", "object": "Adoption of AI"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "AI systems"}
+{"subject": "Microsoft", "relation": "CAUSES_HARM_TO", "object": "individuals"}
+{"subject": "Microsoft", "relation": "CAUSES_HARM_TO", "object": "customers"}
+{"subject": "Microsoft", "relation": "CAUSES_HARM_TO", "object": "society"}
+{"subject": "Microsoft", "relation": "CAUSES_HARM_TO", "object": "products and services"}
+{"subject": "Microsoft", "relation": "MAY_BE_REQUIRED_FOR", "object": "Human review of certain outputs"}
+{"subject": "Microsoft", "relation": "SUBJECTS_TO", "object": "competitive harm"}
+{"subject": "Microsoft", "relation": "SUBJECTS_TO", "object": "regulatory action"}
+{"subject": "Microsoft", "relation": "SUBJECTS_TO", "object": "legal liability"}
+{"subject": "Microsoft", "relation": "SUBJECTS_TO", "object": "brand or reputational harm"}
+{"subject": "Microsoft", "relation": "ENABLING", "object": "AI solutions"}
+{"subject": "Microsoft", "relation": "MAY_HAVE", "object": "ethical issues"}
+{"subject": "Microsoft", "relation": "MAY_HAVE", "object": "broad impacts on society"}
+{"subject": "Chief Executive Officer", "relation": "CERTIFIED_BY", "object": "Sarbanes-Oxley Act of 2002"}
+{"subject": "Chief Financial Officer", "relation": "CERTIFIED_BY", "object": "Sarbanes-Oxley Act of 2002"}
+{"subject": "AI solutions", "relation": "MAY_HAVE_IMPACT_ON", "object": "society"}
+{"subject": "AI solutions", "relation": "MAY_HAVE_UNINTENDED_CONSEQUENCES", "object": "customers and partners"}
+{"subject": "AI solutions", "relation": "MAY_BE_CONTROVERSIAL_DUE_TO", "object": "impact on human rights, privacy, employment, or other social, economic, or political issues"}
+{"subject": "business", "relation": "MAY_EXPERIENCE", "object": "brand or reputational harm"}
+{"subject": "business", "relation": "MAY_EXPERIENCE", "object": "adversely affecting financial statements"}
+{"subject": "online services", "relation": "MAY_HAVE", "object": "excessive outages, data losses, and disruptions"}
+{"subject": "operations infrastructure", "relation": "NEEDS_MAINTENANCE_FOR", "object": "adequate functioning"}
+{"subject": "user traffic", "relation": "CAUSES_NEED_FOR", "object": "more computing power"}
+{"subject": "company", "relation": "SPENDS_SUBSTANTIAL_AMOUNTS_FOR", "object": "building, purchasing, or leasing datacenters and equipment"}
+{"subject": "company", "relation": "SPENDS_SUBSTANTIAL_AMOUNTS_FOR", "object": "upgrading technology and network infrastructure"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Bing"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Azure"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Account services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft 365"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Microsoft Teams"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Dynamics 365"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "OneDrive"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "SharePoint Online"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Skype"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Xbox"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "Outlook.com"}
+{"subject": "business", "relation": "IS_CEO_OF", "object": "third parties"}
+{"subject": "platform", "relation": "PRODUCES", "object": "hosting services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "platform and back-end hosting"}
+{"subject": "infrastructure", "relation": "REQUIRES", "object": "development of principles for datacenter builds"}
+{"subject": "Internet connectivity infrastructure", "relation": "REQUIRES", "object": "robust and reliable capacity"}
+{"subject": "storage and compute capacity", "relation": "REQUIRES", "object": "robust and reliable capacity"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "loss of customer data"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "diminished quality of products and services"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "contractual liability"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "claims by customers and third parties"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "regulatory actions"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "damage to reputation"}
+{"subject": "operational failures", "relation": "CAN_RESULT_IN", "object": "loss of users"}
+{"subject": "Xbox consoles", "relation": "PRODUCES", "object": "Microsoft"}
+{"subject": "Surface devices", "relation": "PRODUCES", "object": "Microsoft"}
+{"subject": "customers", "relation": "RELY_ON", "object": "us"}
+{"subject": "products and services", "relation": "ARE_INTERDEPENDENT_WITH", "object": "one another"}
+{"subject": "defects", "relation": "CAUSE", "object": ["reduced sales", "damage to our reputation", "repair or remediation costs", "delays in the release of new products or versions", "legal liability"]}
+{"subject": "competitors", "relation": "USE", "object": "some of the same suppliers"}
+{"subject": "components", "relation": "DELAYED_OR_UNAVAILABLE", "object": "timely replacement supplies"}
+{"subject": "component shortages", "relation": "INCREASE", "object": "cost of revenue"}
+{"subject": "Xbox consoles, Surface devices, datacenter servers", "relation": "ASSEMBLED_IN", "object": "Asia and other geographies"}
+{"subject": "Asia and other geographies", "relation": "SUFFER_FROM", "object": "disruptions in the supply chain"}
+{"subject": "disruptions in the supply chain", "relation": "AFFECT", "object": "revenue and operating margins"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "operating margins"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "products"}
+{"subject": "Satya Nadella", "relation": "IS_CEO_OF", "object": "Microsoft"}
+{"subject": "European Commission", "relation": "SCRUTINIZES", "object": "Microsoft products"}
+{"subject": "Microsoft Corporation", "relation": "HAS_REVENUE", "object": "financial statements"}
+{"subject": "Amy E. Hood", "relation": "IS_CEO_OF", "object": "Microsoft Corporation"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "high-volume products"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "first-party devices"}
+{"subject": "Microsoft", "relation": "IS_CEO_OF", "object": "Satya Nadella"}
+{"subject": "China", "relation": "HAS_ADVANCED_ARGUMENTS", "object": "competition laws"}
+{"subject": "Asia", "relation": "HAS_ADVANCED_ARGUMENTS", "object": "competition laws"}
+{"subject": "Competition law regulatory actions", "relation": "MAY_RESULT_IN", "object": "fines"}
+{"subject": "Competition law regulatory actions", "relation": "MAY_RESULT_IN", "object": "hinder our ability to provide the benefits of our software"}
+{"subject": "Competition law regulatory actions", "relation": "MAY_RESULT_IN", "object": "reduce the attractiveness of our products"}
+{"subject": "Competition law regulatory actions", "relation": "MAY_RESULT_IN", "object": "reduce the revenue that comes from them"}
+{"subject": "New competition law actions", "relation": "COULD_BE_INITIATED", "object": "potentially using previous actions as precedent"}
+{"subject": "Outcome of actions", "relation": "COULD_ADVERSELY_AFFECT", "object": "us in a variety of ways"}
+{"subject": "Outcome of actions", "relation": "COULD_ADVERSELY_AFFECT", "object": "causing us to withdraw products from or modify products for certain markets"}
+{"subject": "Outcome of actions", "relation": "COULD_ADVERSELY_AFFECT", "object": "decreasing the value of our assets"}
+{"subject": "Outcome of actions", "relation": "COULD_ADVERSELY_AFFECT", "object": "adversely affecting our ability to monetize our products"}
+{"subject": "Outcome of actions", "relation": "COULD_ADVERSELY_AFFECT", "object": "inhibiting our ability to consummate acquisition or impose conditions on acquisitions that may reduce their value"}
+{"subject": "Laws and regulations relating to anti-corruption and trade", "relation": "COULD_RESULT_IN", "object": "increased costs"}
+{"subject": "Laws and regulations relating to anti-corruption and trade", "relation": "COULD_RESULT_IN", "object": "fines"}
+{"subject": "Laws and regulations relating to anti-corruption and trade", "relation": "COULD_RESULT_IN", "object": "criminal penalties"}
+{"subject": "Laws and regulations relating to anti-corruption and trade", "relation": "COULD_RESULT_IN", "object": "reputational damage"}
+{"subject": "Foreign Corrupt Practices Act ('FCPA')", "relation": "IS_AN", "object": "anti-corruption law"}
+{"subject": "Foreign Corrupt Practices Act", "relation": "PROHIBIT", "object": "corrupt payments by employees, vendors, or agents"}
+{"subject": "Foreign Corrupt Practices Act", "relation": "REQUIRE", "object": "maintain accurate books and records and adequate internal controls"}
+{"subject": "EU Whistleblower Directive", "relation": "INITIATED_IN", "object": "2021"}
+{"subject": "EU Whistleblower Directive", "relation": "PRESENTS", "object": "compliance challenges as it is implemented in different forms by EU member states"}
+{"subject": "Microsoft", "relation": "EXPORTS_TO", "object": "certain entities in specified countries"}
+{"subject": "Microsoft", "relation": "OFFERS", "object": "many of its products and services"}
+{"subject": "Microsoft", "relation": "RESTRICTED_BY", "object": "U.S. export controls"}
+{"subject": "Microsoft", "relation": "RESTRICTS", "object": "certain information and communication technologies in its supply chain"}
+{"subject": "Microsoft", "relation": "IMPACTED_BY", "object": "Supply chain regulations"}
+{"subject": "Microsoft", "relation": "RESULT_IN", "object": "additional regulatory scrutiny"}
+{"subject": "Microsoft", "relation": "REVIEWED_BY", "object": "government transactions"}
+{"subject": "Microsoft", "relation": "RESULT_IN", "object": "intense diplomatic or armed conflicts"}
+{"subject": "Microsoft", "relation": "RESULT_IN", "object": "new and rapidly evolving sanctions and trade"}
+{"subject": "EU", "relation": "IMPOSES", "object": "compliance obligations regarding the handling of personal data"}
+{"subject": "EU", "relation": "DEVELOPING", "object": "new requirements related to the use of data"}
+{"subject": "EU", "relation": "ADDS", "object": "additional rules and restriction on the use of data in products and services"}
+{"subject": "engineering efforts", "relation": "INVOLVE", "object": "substantial expense and the diversion of engineering resources"}
+{"subject": "we", "relation": "MIGHT EXPERIENCE", "object": "reduced demand for our offerings if unable to engineer products that meet legal duties or help customers meet obligations under data regulations"}
+{"subject": "Microsoft", "relation": "HAS_REVENUE", "object": "monetization"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "AI services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "operational efficiency"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "key opportunities"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "customer perceptions of quality"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "value of the services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "insights from data"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "services"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "customer perceptions"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "monetization"}
+{"subject": "Microsoft", "relation": "PRODUCES", "object": "value of the services"}
+{"subject": "customer data", "relation": "MANAGED_BY", "object": "Company"}
+{"subject": "employee data", "relation": "MANAGED_BY", "object": "Company"}
+{"subject": "applicable laws and regulations", "relation": "MAY_REQUIRE", "object": "changes in services, business practices, or internal systems"}
+{"subject": "compliance with data regulations", "relation": "MAY_LIMIT", "object": "ability to innovate or offer certain features and functionality"}
+{"subject": "failure to comply with rules", "relation": "MAY_RESULT_IN", "object": "significant penalties or orders to stop alleged noncompliant activity"}

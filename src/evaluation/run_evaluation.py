@@ -1,4 +1,4 @@
-# src/evaluation/run_evaluation.py (FINAL SUBMISSION VERSION)
+# src/evaluation/run_evaluation.py (FINAL SUBMISSION VERSION - Corrected Imports)
 
 import os
 import sys
@@ -7,34 +7,24 @@ from sklearn.metrics import precision_score, recall_score, f1_score, accuracy_sc
 from tqdm import tqdm
 
 # Add the project's root directory to the Python path
-# This ensures we can import our other custom modules
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 
-# Import the compiled LangGraph app from the orchestrator
+# Import the necessary components from your RAG pipeline
 from src.rag_pipeline.orchestrator import app
-# Import the initialized OpenAI client from the answer_generator for our judge
-# This reuses the client that has the API key correctly configured
-from src.rag_pipeline.answer_generator import client as openai_client
+# --- FIX: Import the shared client from our new central clients.py file ---
+from src.rag_pipeline.clients import openai_client
 
 def llm_as_judge(question: str, ground_truth: str, predicted_answer: str) -> bool:
     """
     Uses a Large Language Model as a judge to evaluate if the predicted answer is correct.
-
-    This is a powerful technique for evaluating generative models, as it can understand
-    paraphrasing and semantic similarity, unlike simple string matching.
-
-    Returns:
-        True if the LLM judges the answer as correct, False otherwise.
     """
     if not openai_client:
         print("WARNING: OpenAI client not available for judging. Skipping check.")
         return False
     
     try:
-        # The prompt that instructs the LLM on how to act as a judge.
         prompt = f"""
         You are an impartial judge. Your task is to evaluate if a "Predicted Answer" is a correct and factual response to a "Question", based on a "Ground Truth Answer".
-
         - The Predicted Answer does not need to be a word-for-word copy of the Ground Truth.
         - It must contain the same core facts and information.
         - Paraphrasing or summarizing the Ground Truth is acceptable and should be considered correct.
@@ -50,12 +40,11 @@ def llm_as_judge(question: str, ground_truth: str, predicted_answer: str) -> boo
         response = openai_client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0, # Use a low temperature for deterministic and consistent judging
-            max_tokens=5   # Limit the response to a single word for easy parsing
+            temperature=0,
+            max_tokens=5
         )
         
         judge_response = response.choices[0].message.content.strip().lower()
-        # Return True if the judge's response contains "yes"
         return "yes" in judge_response
 
     except Exception as e:
@@ -65,12 +54,12 @@ def llm_as_judge(question: str, ground_truth: str, predicted_answer: str) -> boo
 
 def run_evaluation():
     """
-    Runs the full evaluation using an LLM as the judge for correctness.
+    Runs the full evaluation, calculates metrics, and saves the detailed
+    results to a CSV file for analysis.
     """
     # --- 1. Load the Evaluation Dataset ---
     eval_csv_path = "data/SampleDataSet/SampleQuestions/questions_with_partial_answers.csv"
     try:
-        # Use encoding='latin1' to handle special characters and the correct column names.
         eval_df = pd.read_csv(eval_csv_path, encoding='latin1')
         eval_df.dropna(subset=['Answer'], inplace=True)
         print(f"✅ Loaded {len(eval_df)} questions with ground truth answers for evaluation.")
@@ -78,6 +67,9 @@ def run_evaluation():
         print(f"❌ Error loading or parsing the evaluation file: {e}")
         return
 
+    # Create a list to store detailed results for saving later
+    results_list = []
+    
     predictions = []
     ground_truths = []
     correct_count = 0
@@ -89,21 +81,28 @@ def run_evaluation():
         question = row['Question']
         ground_truth = str(row['Answer'])
 
-        # Run your RAG pipeline to get the predicted answer
         graph_input = {"question": question}
         final_state = app.invoke(graph_input)
         predicted_answer = final_state.get("generation", "No answer generated.")
 
-        # Use the LLM to judge the correctness of the answer
-        if llm_as_judge(question, ground_truth, predicted_answer):
-            predictions.append(1) # Correct
+        is_correct = llm_as_judge(question, ground_truth, predicted_answer)
+
+        if is_correct:
+            predictions.append(1)
             correct_count += 1
         else:
-            predictions.append(0) # Incorrect
+            predictions.append(0)
         
         ground_truths.append(1)
         
-        # Display a running accuracy score in the progress bar's description
+        # Append the detailed results for this question to our list
+        results_list.append({
+            'question': question,
+            'ground_truth': ground_truth,
+            'predicted_answer': predicted_answer,
+            'is_correct': is_correct
+        })
+        
         tqdm.write(f"Running Accuracy: {correct_count / len(ground_truths):.2%}")
 
     # --- 3. Calculate Final Metrics ---
@@ -124,6 +123,16 @@ def run_evaluation():
     print(f"Recall: {recall:.2f}")
     print(f"F1 Score: {f1:.2f}")
     print("="*50)
+
+    # --- 4. Save the detailed results to a CSV file ---
+    print("\n💾 Saving detailed evaluation results to CSV...")
+    try:
+        results_df = pd.DataFrame(results_list)
+        output_csv_path = "evaluation_results.csv"
+        results_df.to_csv(output_csv_path, index=False)
+        print(f"✅ Results saved to '{output_csv_path}'")
+    except Exception as e:
+        print(f"❌ Failed to save results to CSV. Error: {e}")
 
 if __name__ == "__main__":
     run_evaluation()

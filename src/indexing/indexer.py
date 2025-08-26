@@ -108,7 +108,7 @@ if __name__ == "__main__":
         
         # Load the embedding model once at the start to avoid reloading it for every file.
         print("Loading embedding model (this may take a moment)...")
-        embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
+        embedding_model = SentenceTransformer('./fine_tuned_model/')
         print("✅ Embedding model loaded.")
         
         total_chunks_indexed = 0
